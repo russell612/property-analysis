@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2026-03-07T13:48:30.203333",
+    "sale_listings_scraped": 0,
+    "rent_listings_scraped": 0,
+    "transactions_scraped": 22,
+    "market_data_entries": 5,
+    "news_articles": 0,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-03-07T14:01:01.548580",
+    "sale": 2,
+    "rent": 2,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-07T14:05:03.142704",
+    "sale": 5,
+    "rent": 2,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-07T16:02:53.182999",
+    "sale": 125,
+    "rent": 85,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-07T16:14:15.048765",
+    "sale": 125,
+    "rent": 85,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-08T00:21:35.688254",
+    "sale": 125,
+    "rent": 85,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-08T00:28:51.271411",
+    "sale": 125,
+    "rent": 85,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-08T02:14:24.478537",
+    "sale": 174,
+    "rent": 126,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-03-08T10:23:30.379583",
+    "sale": 174,
+    "rent": 126,
+    "transactions": 22,
+    "market": 5,
+    "news": 0,
+    "errors": 0
+  }
+]

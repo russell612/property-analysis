@@ -1,0 +1,557 @@
+{
+  "generated_at": "2026-03-08T04:24:19.641694",
+  "properties": {
+    "Bamboo Hills Residences": {
+      "region": "Bamboo Hills",
+      "is_target": true,
+      "monthly": [
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 715.77,
+          "sale_psf_median": 719.03,
+          "sale_psf_min": 705.75,
+          "sale_psf_max": 729.68,
+          "sale_count": 4,
+          "sale_price_avg": 539000.0,
+          "sale_price_median": 638000.0
+        }
+      ]
+    },
+    "GenStarz": {
+      "region": "Old Klang Road",
+      "is_target": true,
+      "monthly": []
+    },
+    "Scenaria @ North Kiara Hills": {
+      "region": "Bamboo Hills",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 1.67,
+          "rent_psf_median": 1.67,
+          "rent_count": 1,
+          "rent_price_avg": 1700.0,
+          "rent_price_median": 1700.0
+        },
+        {
+          "month": "2025-12",
+          "rent_psf_avg": 1.83,
+          "rent_psf_median": 1.84,
+          "rent_count": 4,
+          "rent_price_avg": 2300.0,
+          "rent_price_median": 2300.0
+        },
+        {
+          "month": "2026-02",
+          "rent_psf_avg": 2.06,
+          "rent_psf_median": 2.0,
+          "rent_count": 3,
+          "rent_price_avg": 2432.67,
+          "rent_price_median": 2399.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 578.49,
+          "sale_psf_median": 598.63,
+          "sale_psf_min": 410.96,
+          "sale_psf_max": 667.32,
+          "sale_count": 21,
+          "rent_psf_avg": 1.98,
+          "rent_psf_median": 2.23,
+          "rent_count": 6,
+          "sale_price_avg": 652761.9,
+          "sale_price_median": 620000.0,
+          "rent_price_avg": 2399.33,
+          "rent_price_median": 2499.0
+        }
+      ]
+    },
+    "United Point Residence": {
+      "region": "Bamboo Hills",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 636.49,
+          "sale_psf_median": 627.26,
+          "sale_psf_min": 558.14,
+          "sale_psf_max": 717.73,
+          "sale_count": 21,
+          "rent_psf_avg": 2.37,
+          "rent_psf_median": 2.4,
+          "rent_count": 20,
+          "sale_price_avg": 622000.0,
+          "sale_price_median": 650000.0,
+          "rent_price_avg": 2306.85,
+          "rent_price_median": 2299.0
+        }
+      ]
+    },
+    "Tuan Residency": {
+      "region": "Bamboo Hills",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 1.94,
+          "rent_psf_median": 1.94,
+          "rent_count": 2,
+          "rent_price_avg": 1700.0,
+          "rent_price_median": 1700.0
+        },
+        {
+          "month": "2025-12",
+          "rent_psf_avg": 2.05,
+          "rent_psf_median": 2.05,
+          "rent_count": 2,
+          "rent_price_avg": 1800.0,
+          "rent_price_median": 1800.0
+        },
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 2.28,
+          "rent_psf_median": 2.28,
+          "rent_count": 1,
+          "rent_price_avg": 2000.0,
+          "rent_price_median": 2000.0
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 545.14,
+          "sale_psf_median": 558.09,
+          "sale_psf_min": 512.53,
+          "sale_psf_max": 608.44,
+          "sale_count": 6,
+          "sale_price_avg": 490000.0,
+          "sale_price_median": 490000.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 513.56,
+          "sale_psf_median": 516.84,
+          "sale_psf_min": 386.76,
+          "sale_psf_max": 592.33,
+          "sale_count": 14,
+          "rent_psf_avg": 2.12,
+          "rent_psf_median": 2.09,
+          "rent_count": 7,
+          "sale_price_avg": 450928.57,
+          "sale_price_median": 450000.0,
+          "rent_price_avg": 1949.86,
+          "rent_price_median": 1900.0
+        }
+      ]
+    },
+    "OUG Parklane": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 1.86,
+          "rent_psf_median": 1.58,
+          "rent_count": 4,
+          "rent_price_avg": 1342.5,
+          "rent_price_median": 1500.0
+        },
+        {
+          "month": "2026-02",
+          "rent_psf_avg": 1.84,
+          "rent_psf_median": 1.79,
+          "rent_count": 5,
+          "rent_price_avg": 1760.0,
+          "rent_price_median": 1700.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 424.19,
+          "sale_psf_median": 408.42,
+          "sale_psf_min": 354.55,
+          "sale_psf_max": 505.26,
+          "sale_count": 21,
+          "rent_psf_avg": 2.02,
+          "rent_psf_median": 2.0,
+          "rent_count": 11,
+          "sale_price_avg": 406333.29,
+          "sale_price_median": 395000.0,
+          "rent_price_avg": 1921.82,
+          "rent_price_median": 1900.0
+        }
+      ]
+    },
+    "The Scott Garden": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-11",
+          "rent_psf_avg": 2.12,
+          "rent_psf_median": 2.06,
+          "rent_count": 3,
+          "rent_price_avg": 1800.0,
+          "rent_price_median": 1600.0
+        },
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 2.04,
+          "rent_psf_median": 2.06,
+          "rent_count": 3,
+          "rent_price_avg": 1600.0,
+          "rent_price_median": 1600.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 445.07,
+          "sale_psf_median": 419.84,
+          "sale_psf_min": 294.72,
+          "sale_psf_max": 753.85,
+          "sale_count": 21,
+          "rent_psf_avg": 2.19,
+          "rent_psf_median": 2.32,
+          "rent_count": 4,
+          "sale_price_avg": 375683.81,
+          "sale_price_median": 320760.0,
+          "rent_price_avg": 1975.0,
+          "rent_price_median": 2000.0
+        }
+      ]
+    },
+    "Southbank Residence": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": []
+    },
+    "Seringin Residences": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-09",
+          "sale_psf_avg": 648.5,
+          "sale_psf_median": 648.5,
+          "sale_psf_min": 648.5,
+          "sale_psf_max": 648.5,
+          "sale_count": 1,
+          "rent_psf_avg": 1.97,
+          "rent_psf_median": 1.97,
+          "rent_count": 1,
+          "sale_price_avg": 1380000.0,
+          "sale_price_median": 1380000.0,
+          "rent_price_avg": 3000.0,
+          "rent_price_median": 3000.0
+        },
+        {
+          "month": "2025-11",
+          "rent_psf_avg": 2.8,
+          "rent_psf_median": 3.73,
+          "rent_count": 2,
+          "rent_price_avg": 4000.0,
+          "rent_price_median": 4000.0
+        },
+        {
+          "month": "2026-01",
+          "sale_psf_avg": 673.52,
+          "sale_psf_median": 668.63,
+          "sale_psf_min": 602.67,
+          "sale_psf_max": 749.27,
+          "sale_count": 3,
+          "rent_psf_avg": 2.29,
+          "rent_psf_median": 2.29,
+          "rent_count": 1,
+          "sale_price_avg": 1333000.0,
+          "sale_price_median": 1279000.0,
+          "rent_price_avg": 4300.0,
+          "rent_price_median": 4300.0
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 634.21,
+          "sale_psf_median": 673.7,
+          "sale_psf_min": 267.24,
+          "sale_psf_max": 930.45,
+          "sale_count": 5,
+          "sale_price_avg": 1677400.0,
+          "sale_price_median": 1150000.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 681.43,
+          "sale_psf_median": 693.33,
+          "sale_psf_min": 532.54,
+          "sale_psf_max": 961.8,
+          "sale_count": 11,
+          "rent_psf_avg": 2.04,
+          "rent_psf_median": 2.02,
+          "rent_count": 3,
+          "sale_price_avg": 1838818.18,
+          "sale_price_median": 1200000.0,
+          "rent_price_avg": 4033.33,
+          "rent_price_median": 4000.0
+        }
+      ]
+    },
+    "Verve Suites KL South": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 3.25,
+          "rent_psf_median": 3.25,
+          "rent_count": 1,
+          "rent_price_avg": 2300.0,
+          "rent_price_median": 2300.0
+        },
+        {
+          "month": "2025-11",
+          "sale_psf_avg": 1100.0,
+          "sale_psf_median": 1100.0,
+          "sale_psf_min": 1100.0,
+          "sale_psf_max": 1100.0,
+          "sale_count": 1,
+          "rent_psf_avg": 4.04,
+          "rent_psf_median": 4.04,
+          "rent_count": 1,
+          "sale_price_avg": 1320000.0,
+          "sale_price_median": 1320000.0,
+          "rent_price_avg": 3000.0,
+          "rent_price_median": 3000.0
+        },
+        {
+          "month": "2025-12",
+          "sale_psf_avg": 477.06,
+          "sale_psf_median": 477.06,
+          "sale_psf_min": 477.06,
+          "sale_psf_max": 477.06,
+          "sale_count": 1,
+          "rent_psf_avg": 3.55,
+          "rent_psf_median": 3.55,
+          "rent_count": 1,
+          "sale_price_avg": 416000.0,
+          "sale_price_median": 416000.0,
+          "rent_price_avg": 2500.0,
+          "rent_price_median": 2500.0
+        },
+        {
+          "month": "2026-01",
+          "sale_psf_avg": 903.96,
+          "sale_psf_median": 918.08,
+          "sale_psf_min": 889.83,
+          "sale_psf_max": 918.08,
+          "sale_count": 2,
+          "rent_psf_avg": 3.05,
+          "rent_psf_median": 3.02,
+          "rent_count": 3,
+          "sale_price_avg": 640000.0,
+          "sale_price_median": 650000.0,
+          "rent_price_avg": 2200.0,
+          "rent_price_median": 2200.0
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 728.44,
+          "sale_psf_median": 780.14,
+          "sale_psf_min": 676.75,
+          "sale_psf_max": 780.14,
+          "sale_count": 2,
+          "sale_price_avg": 700000.0,
+          "sale_price_median": 850000.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 759.25,
+          "sale_psf_median": 800.46,
+          "sale_psf_min": 498.89,
+          "sale_psf_max": 954.55,
+          "sale_count": 9,
+          "rent_psf_avg": 4.15,
+          "rent_psf_median": 4.0,
+          "rent_count": 4,
+          "sale_price_avg": 501888.89,
+          "sale_price_median": 480000.0,
+          "rent_price_avg": 1747.5,
+          "rent_price_median": 1990.0
+        }
+      ]
+    },
+    "Millerz Square": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 722.73,
+          "sale_psf_median": 672.75,
+          "sale_psf_min": 568.57,
+          "sale_psf_max": 1019.7,
+          "sale_count": 5,
+          "rent_psf_avg": 4.41,
+          "rent_psf_median": 4.34,
+          "rent_count": 12,
+          "sale_price_avg": 541000.0,
+          "sale_price_median": 576000.0,
+          "rent_price_avg": 2675.0,
+          "rent_price_median": 2800.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 820.68,
+          "sale_psf_median": 861.08,
+          "sale_psf_min": 472.63,
+          "sale_psf_max": 1090.91,
+          "sale_count": 15,
+          "rent_psf_avg": 4.35,
+          "rent_psf_median": 4.24,
+          "rent_count": 7,
+          "sale_price_avg": 636066.67,
+          "sale_price_median": 650000.0,
+          "rent_price_avg": 2735.71,
+          "rent_price_median": 2950.0
+        }
+      ]
+    },
+    "D'Ivo Residences": {
+      "region": "Old Klang Road",
+      "is_target": false,
+      "monthly": [
+        {
+          "month": "2025-11",
+          "sale_psf_avg": 771.17,
+          "sale_psf_median": 897.32,
+          "sale_psf_min": 645.02,
+          "sale_psf_max": 897.32,
+          "sale_count": 2,
+          "sale_price_avg": 773000.0,
+          "sale_price_median": 970000.0
+        },
+        {
+          "month": "2025-12",
+          "sale_psf_avg": 660.52,
+          "sale_psf_median": 675.3,
+          "sale_psf_min": 645.74,
+          "sale_psf_max": 675.3,
+          "sale_count": 2,
+          "rent_psf_avg": 1.75,
+          "rent_psf_median": 1.46,
+          "rent_count": 6,
+          "sale_price_avg": 653000.0,
+          "sale_price_median": 730000.0,
+          "rent_price_avg": 1558.33,
+          "rent_price_median": 1300.0
+        },
+        {
+          "month": "2026-01",
+          "sale_psf_avg": 709.49,
+          "sale_psf_median": 766.39,
+          "sale_psf_min": 543.68,
+          "sale_psf_max": 818.39,
+          "sale_count": 3,
+          "rent_psf_avg": 5.0,
+          "rent_psf_median": 5.75,
+          "rent_count": 2,
+          "sale_price_avg": 715000.0,
+          "sale_price_median": 730000.0,
+          "rent_price_avg": 1000.0,
+          "rent_price_median": 1150.0
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 543.68,
+          "sale_psf_median": 543.68,
+          "sale_psf_min": 543.68,
+          "sale_psf_max": 543.68,
+          "sale_count": 1,
+          "rent_psf_avg": 2.64,
+          "rent_psf_median": 2.81,
+          "rent_count": 2,
+          "sale_price_avg": 585000.0,
+          "sale_price_median": 585000.0,
+          "rent_price_avg": 2350.0,
+          "rent_price_median": 2500.0
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 638.18,
+          "sale_psf_median": 689.97,
+          "sale_psf_min": 472.63,
+          "sale_psf_max": 754.76,
+          "sale_count": 6,
+          "rent_psf_avg": 3.23,
+          "rent_psf_median": 3.23,
+          "rent_count": 1,
+          "sale_price_avg": 657233.33,
+          "sale_price_median": 690000.0,
+          "rent_price_avg": 3500.0,
+          "rent_price_median": 3500.0
+        }
+      ]
+    }
+  },
+  "summary": {
+    "Old Klang Road": {
+      "monthly": [
+        {
+          "month": "2025-09",
+          "sale_psf_avg": 648.5,
+          "rent_psf_avg": 1.97
+        },
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 3.25
+        },
+        {
+          "month": "2025-11",
+          "sale_psf_avg": 935.59,
+          "rent_psf_avg": 2.99
+        },
+        {
+          "month": "2025-12",
+          "sale_psf_avg": 568.79,
+          "rent_psf_avg": 2.65
+        },
+        {
+          "month": "2026-01",
+          "sale_psf_avg": 762.32,
+          "rent_psf_avg": 2.85
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 657.26,
+          "rent_psf_avg": 2.96
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 628.13,
+          "rent_psf_avg": 3.0
+        }
+      ]
+    },
+    "Bamboo Hills": {
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 1.8
+        },
+        {
+          "month": "2025-12",
+          "rent_psf_avg": 1.94
+        },
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 2.28
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 545.14,
+          "rent_psf_avg": 2.06
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 611.08,
+          "rent_psf_avg": 2.16
+        }
+      ]
+    }
+  }
+}

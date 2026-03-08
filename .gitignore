@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build output (rebuilt by CI)
+dashboard/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.log

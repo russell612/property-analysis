@@ -1,0 +1,209 @@
+[
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.302372",
+    "property": "TAMAN SRI SINARSEGAMBUT,KUALA LUMPURTERRACE HOUSE",
+    "unit_type": "FREEHOLDTERRACE HOUSE",
+    "price_psf": 663.0,
+    "price": 445000.0,
+    "price_text": "445,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.302644",
+    "property": "NOVA 1SEGAMBUT,KUALA LUMPURAPARTMENT",
+    "unit_type": "FREEHOLDAPARTMENT",
+    "price_psf": 565.0,
+    "price": 420000.0,
+    "price_text": "420,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.302756",
+    "property": "KEPONG BARUSEGAMBUT,KUALA LUMPURSEMI-D,TERRACE HOUSE",
+    "unit_type": "FREEHOLDSEMI-D,TERRACE HOUSE",
+    "price_psf": 455.0,
+    "price": 730000.0,
+    "price_text": "730,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.302856",
+    "property": "SCENARIA @ NORTH KIARA HILLSSEGAMBUT,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 541.0,
+    "price": 670000.0,
+    "price_text": "670,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.302975",
+    "property": "VILLA ORKIDSEGAMBUT,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 385.0,
+    "price": 710000.0,
+    "price_text": "710,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.303075",
+    "property": "ANJALI NORTH KIARASEGAMBUT,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 621.0,
+    "price": 1270000.0,
+    "price_text": "1,270,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.303173",
+    "property": "PRIMA PELANGISEGAMBUT,KUALA LUMPURAPARTMENT",
+    "unit_type": "FREEHOLDAPARTMENT",
+    "price_psf": 316.0,
+    "price": 345000.0,
+    "price_text": "345,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.303270",
+    "property": "TAMAN PUSAT KEPONGSEGAMBUT,KUALA LUMPURFLAT",
+    "unit_type": "LEASEHOLDFLAT",
+    "price_psf": 217.0,
+    "price": 183500.0,
+    "price_text": "183,500"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.303367",
+    "property": "BUKIT SEGAMBUT APARTMENTSEGAMBUT,KUALA LUMPURAPARTMENT",
+    "unit_type": "FREEHOLDAPARTMENT",
+    "price_psf": 345.0,
+    "price": 375000.0,
+    "price_text": "375,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:35.303464",
+    "property": "NOVA 2SEGAMBUT,KUALA LUMPURAPARTMENT",
+    "unit_type": "FREEHOLDAPARTMENT",
+    "price_psf": 372.0,
+    "price": 330000.0,
+    "price_text": "330,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "type": "area_summary",
+    "scraped_at": "2026-03-07T13:47:35.304174",
+    "total_transactions": 178
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413346",
+    "property": "HAPPY GARDENOLD KLANG ROAD,KUALA LUMPURSEMI-D,TERRACE HOUSE",
+    "unit_type": "FREEHOLD, LEASEHOLDSEMI-D,TERRACE HOUSE",
+    "price_psf": 435.0,
+    "price": 738000.0,
+    "price_text": "738,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413455",
+    "property": "OVERSEAS UNION GARDENOLD KLANG ROAD,KUALA LUMPURBUNGALOW,SEMI-D,TERRACE HOUSE",
+    "unit_type": "FREEHOLDBUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 521.0,
+    "price": 894000.0,
+    "price_text": "894,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413534",
+    "property": "OUG PARKLANEOLD KLANG ROAD,KUALA LUMPURSERVICE RESIDENCE",
+    "unit_type": "FREEHOLDSERVICE RESIDENCE",
+    "price_psf": 470.0,
+    "price": 450000.0,
+    "price_text": "450,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413613",
+    "property": "TAMAN SRI SENTOSAOLD KLANG ROAD,KUALA LUMPURFLAT",
+    "unit_type": "LEASEHOLDFLAT",
+    "price_psf": 251.0,
+    "price": 147500.0,
+    "price_text": "147,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413687",
+    "property": "THE LEGACY OUGOLD KLANG ROAD,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 734.0,
+    "price": 823800.0,
+    "price_text": "823,800"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413761",
+    "property": "THE SCOTT GARDENOLD KLANG ROAD,KUALA LUMPURSERVICE RESIDENCE",
+    "unit_type": "FREEHOLDSERVICE RESIDENCE",
+    "price_psf": 458.0,
+    "price": 440000.0,
+    "price_text": "440,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413835",
+    "property": "TIARA MUTIARA / THE CROWNOLD KLANG ROAD,KUALA LUMPURSERVICE RESIDENCE",
+    "unit_type": "FREEHOLDSERVICE RESIDENCE",
+    "price_psf": 458.0,
+    "price": 400000.0,
+    "price_text": "400,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413908",
+    "property": "RESIDENSI WALTZOLD KLANG ROAD,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 769.0,
+    "price": 1298000.0,
+    "price_text": "1,298,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.413987",
+    "property": "SERINGIN RESIDENCESOLD KLANG ROAD,KUALA LUMPURCONDOMINIUM",
+    "unit_type": "FREEHOLDCONDOMINIUM",
+    "price_psf": 634.0,
+    "price": 1330000.0,
+    "price_text": "1,330,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-07T13:47:42.414063",
+    "property": "HAPPY GARDEN FLATOLD KLANG ROAD,KUALA LUMPURFLAT",
+    "unit_type": "FREEHOLDFLAT",
+    "price_psf": 287.0,
+    "price": 208000.0,
+    "price_text": "208,000"
+  }
+]

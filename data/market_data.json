@@ -3,16 +3,16 @@
     "region": "Bamboo Hills / Segambut",
     "source": "brickz",
     "type": "area_summary",
-    "scraped_at": "2026-03-10T02:14:58.537000",
-    "total_transactions": 178,
-    "total_projects": 38
+    "scraped_at": "2026-03-11T02:15:05.771690",
+    "total_transactions": 191,
+    "total_projects": 39
   },
   {
     "region": "Old Klang Road",
     "source": "brickz",
     "type": "area_summary",
-    "scraped_at": "2026-03-10T02:15:00.591946",
-    "total_transactions": 400,
+    "scraped_at": "2026-03-11T02:15:07.893979",
+    "total_transactions": 412,
     "total_projects": 80
   },
   {
@@ -20,20 +20,20 @@
     "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
     "type": "publication",
     "source": "napic",
-    "scraped_at": "2026-03-10T02:15:07.222993"
+    "scraped_at": "2026-03-11T02:15:14.462555"
   },
   {
     "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
     "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
     "type": "transaction_data_file",
     "source": "napic",
-    "scraped_at": "2026-03-10T02:15:13.030975"
+    "scraped_at": "2026-03-11T02:15:20.731511"
   },
   {
     "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
     "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
     "type": "transaction_data_file",
     "source": "napic",
-    "scraped_at": "2026-03-10T02:15:13.031039"
+    "scraped_at": "2026-03-11T02:15:20.731573"
   }
 ]

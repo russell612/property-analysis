@@ -205,5 +205,95 @@
     "price_psf": 287.0,
     "price": 208000.0,
     "price_text": "208,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:01.589612",
+    "property": "TAMAN SRI SINAR",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 663.0,
+    "price": 430000.0,
+    "price_text": "430,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:01.590851",
+    "property": "PLAZA SINAR",
+    "unit_type": "APARTMENT",
+    "price_psf": 349.0,
+    "price": 280000.0,
+    "price_text": "280,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.669307",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 525.0,
+    "price": 910000.0,
+    "price_text": "910,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.669588",
+    "property": "RESIDENSI WALTZ",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 783.0,
+    "price": 1323960.0,
+    "price_text": "1,323,960"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.669717",
+    "property": "TAMAN SRI SENTOSA",
+    "unit_type": "FLAT",
+    "price_psf": 246.0,
+    "price": 145000.0,
+    "price_text": "145,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.669860",
+    "property": "THE LEGACY OUG",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 733.0,
+    "price": 822800.0,
+    "price_text": "822,800"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.670119",
+    "property": "OUG PARKLANE",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 475.0,
+    "price": 455000.0,
+    "price_text": "455,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.670245",
+    "property": "TIARA MUTIARA / THE CROWN",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 464.0,
+    "price": 385000.0,
+    "price_text": "385,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-03-11T02:15:03.670371",
+    "property": "SERINGIN RESIDENCES",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 625.0,
+    "price": 1323000.0,
+    "price_text": "1,323,000"
   }
 ]

@@ -2884,5 +2884,43 @@
     "listed_date": "14 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Scenaria @ North Kiara Hills",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-21T02:09:42.707451",
+    "url": "https://www.edgeprop.my/listing/rental/3883337/scenaria-laman-scenaria-kiara-for-rent-by-alex-yap",
+    "title": "FEATURED",
+    "price_text": "RM 2,600",
+    "price": 2600.0,
+    "price_psf": 2.0,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size_sqft": 1300.0,
+    "listed_date": "17 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "OUG Parklane",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-21T02:09:48.357388",
+    "url": "https://www.edgeprop.my/listing/rental/3883233/oug-parklane-for-rent-by-alex-yap",
+    "title": "PREMIUM",
+    "price_text": "RM 1,500",
+    "price": 1500.0,
+    "price_psf": 1.58,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 950.0,
+    "listed_date": "17 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

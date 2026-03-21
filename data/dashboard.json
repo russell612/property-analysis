@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T02:26:46.305346",
+  "last_updated": "2026-03-21T02:13:40.473780",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -1697,6 +1697,25 @@
           "listed_date": "15 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Scenaria @ North Kiara Hills",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-21T02:09:42.707451",
+          "url": "https://www.edgeprop.my/listing/rental/3883337/scenaria-laman-scenaria-kiara-for-rent-by-alex-yap",
+          "title": "FEATURED",
+          "price_text": "RM 2,600",
+          "price": 2600.0,
+          "price_psf": 2.0,
+          "bedrooms": 3,
+          "bathrooms": 3,
+          "size_sqft": 1300.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -1713,8 +1732,8 @@
         "rent_price_min": 1700.0,
         "rent_price_max": 2900.0,
         "rent_price_median": 2300.0,
-        "rent_price_avg": 2327.39,
-        "total_rent_listings": 18,
+        "rent_price_avg": 2341.74,
+        "total_rent_listings": 19,
         "rent_psf_min": 1.6,
         "rent_psf_max": 2.45,
         "rent_psf_median": 2.0,
@@ -2620,6 +2639,25 @@
           "listed_date": "14 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-21T02:09:22.252032",
+          "url": "https://www.edgeprop.my/listing/sale/3883676/united-point-residence-residensi-bersepadu-for-sale-by-kc-khoo",
+          "title": "United Point Residence (Residensi Bersepadu)",
+          "price_text": "RM 580,000",
+          "price": 580000.0,
+          "price_psf": 605.43,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "11 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -3312,13 +3350,13 @@
       "stats": {
         "sale_price_min": 450000.0,
         "sale_price_max": 800000.0,
-        "sale_price_median": 599999.0,
-        "sale_price_avg": 613369.43,
-        "total_sale_listings": 46,
+        "sale_price_median": 598000.0,
+        "sale_price_avg": 612659.45,
+        "total_sale_listings": 47,
         "sale_psf_min": 542.82,
         "sale_psf_max": 717.73,
-        "sale_psf_median": 624.22,
-        "sale_psf_avg": 622.48,
+        "sale_psf_median": 615.87,
+        "sale_psf_avg": 622.12,
         "rent_price_min": 1800.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2299.0,
@@ -3328,7 +3366,7 @@
         "rent_psf_max": 3.34,
         "rent_psf_median": 2.4,
         "rent_psf_avg": 2.4,
-        "estimated_yield": 4.6
+        "estimated_yield": 4.61
       }
     },
     "Tuan Residency": {
@@ -5717,6 +5755,25 @@
           "listed_date": "14 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-21T02:09:48.357388",
+          "url": "https://www.edgeprop.my/listing/rental/3883233/oug-parklane-for-rent-by-alex-yap",
+          "title": "PREMIUM",
+          "price_text": "RM 1,500",
+          "price": 1500.0,
+          "price_psf": 1.58,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -5732,14 +5789,14 @@
         "sale_psf_avg": 376.26,
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
-        "rent_price_median": 1700.0,
-        "rent_price_avg": 1679.58,
-        "total_rent_listings": 24,
+        "rent_price_median": 1650.0,
+        "rent_price_avg": 1672.4,
+        "total_rent_listings": 25,
         "rent_psf_min": 1.37,
         "rent_psf_max": 2.9,
-        "rent_psf_median": 1.89,
-        "rent_psf_avg": 1.92,
-        "estimated_yield": 5.51
+        "rent_psf_median": 1.79,
+        "rent_psf_avg": 1.91,
+        "estimated_yield": 5.35
       }
     },
     "The Scott Garden": {
@@ -9442,7 +9499,7 @@
         "D'Ivo Residences"
       ],
       "total_sale_listings": 178,
-      "total_rent_listings": 85,
+      "total_rent_listings": 86,
       "total_transactions": 17,
       "stats": {
         "sale_price_min": 216000.0,
@@ -9457,12 +9514,12 @@
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
-        "rent_price_avg": 2178.31,
-        "total_rent_listings": 83,
+        "rent_price_avg": 2170.24,
+        "total_rent_listings": 84,
         "rent_psf_min": 1.07,
         "rent_psf_max": 5.75,
-        "rent_psf_median": 2.57,
-        "rent_psf_avg": 2.91,
+        "rent_psf_median": 2.52,
+        "rent_psf_avg": 2.89,
         "estimated_yield": 5.45,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
@@ -9479,27 +9536,27 @@
         "United Point Residence",
         "Tuan Residency"
       ],
-      "total_sale_listings": 133,
-      "total_rent_listings": 68,
+      "total_sale_listings": 134,
+      "total_rent_listings": 69,
       "total_transactions": 12,
       "stats": {
         "sale_price_min": 333000.0,
         "sale_price_max": 850000.0,
         "sale_price_median": 610000.0,
-        "sale_price_avg": 610765.11,
-        "total_sale_listings": 132,
+        "sale_price_avg": 610533.79,
+        "total_sale_listings": 133,
         "sale_psf_min": 386.76,
         "sale_psf_max": 729.68,
         "sale_psf_median": 595.24,
-        "sale_psf_avg": 591.41,
+        "sale_psf_avg": 591.52,
         "rent_price_min": 1650.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2200.0,
-        "rent_price_avg": 2236.8,
-        "total_rent_listings": 66,
+        "rent_price_avg": 2242.22,
+        "total_rent_listings": 67,
         "rent_psf_min": 1.6,
         "rent_psf_max": 3.34,
-        "rent_psf_median": 2.23,
+        "rent_psf_median": 2.19,
         "rent_psf_avg": 2.22,
         "estimated_yield": 4.33,
         "txn_price_min": 183500.0,
@@ -9548,7 +9605,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-20T02:26:30.225121",
+      "scraped_at": "2026-03-21T02:13:24.156656",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -9556,7 +9613,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-20T02:26:32.423649",
+      "scraped_at": "2026-03-21T02:13:26.476567",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -9565,21 +9622,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-03-20T02:26:39.945310"
+      "scraped_at": "2026-03-21T02:13:33.963503"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-20T02:26:46.289090"
+      "scraped_at": "2026-03-21T02:13:40.457621"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-20T02:26:46.289155"
+      "scraped_at": "2026-03-21T02:13:40.457685"
     }
   ],
   "news": [],
@@ -9589,7 +9646,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-03-20T02:23:07.640159",
+      "scraped_at": "2026-03-21T02:10:10.298252",
       "transactions": []
     }
   ]

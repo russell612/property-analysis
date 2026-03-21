@@ -5873,5 +5873,24 @@
     "listed_date": "18 hours ago",
     "is_target": false,
     "price_tier": "budget"
+  },
+  {
+    "property": "United Point Residence",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-21T02:09:22.252032",
+    "url": "https://www.edgeprop.my/listing/sale/3883676/united-point-residence-residensi-bersepadu-for-sale-by-kc-khoo",
+    "title": "United Point Residence (Residensi Bersepadu)",
+    "price_text": "RM 580,000",
+    "price": 580000.0,
+    "price_psf": 605.43,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 958.0,
+    "listed_date": "11 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

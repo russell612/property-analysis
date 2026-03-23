@@ -6082,5 +6082,24 @@
     "listed_date": "19 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Scenaria @ North Kiara Hills",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-23T02:30:32.677059",
+    "url": "https://www.edgeprop.my/listing/sale/3772219/scenaria-laman-scenaria-kiara-for-sale-by-cs-ow",
+    "title": "Scenaria (Laman Scenaria Kiara)",
+    "price_text": "RM 780,000",
+    "price": 780000.0,
+    "price_psf": 619.05,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1260.0,
+    "listed_date": "21 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

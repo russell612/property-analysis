@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T02:27:29.336002",
+  "last_updated": "2026-03-25T02:31:58.043832",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -5619,6 +5619,25 @@
           "listed_date": "12 minutes ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-25T02:27:35.478582",
+          "url": "https://www.edgeprop.my/listing/sale/3399129/oug-parklane-for-sale-by-livia-leow",
+          "title": "OUG Parklane",
+          "price_text": "RM 233,300",
+          "price": 233300.0,
+          "price_psf": 243.53,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "9 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -6102,13 +6121,13 @@
       "stats": {
         "sale_price_min": 233300.0,
         "sale_price_max": 480000.0,
-        "sale_price_median": 369999.0,
-        "sale_price_avg": 357971.2,
-        "total_sale_listings": 66,
+        "sale_price_median": 360000.0,
+        "sale_price_avg": 356110.43,
+        "total_sale_listings": 67,
         "sale_psf_min": 243.53,
         "sale_psf_max": 505.26,
         "sale_psf_median": 378.95,
-        "sale_psf_avg": 375.28,
+        "sale_psf_avg": 373.31,
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1650.0,
@@ -6118,7 +6137,7 @@
         "rent_psf_max": 2.9,
         "rent_psf_median": 1.79,
         "rent_psf_avg": 1.91,
-        "estimated_yield": 5.35
+        "estimated_yield": 5.5
       }
     },
     "The Scott Garden": {
@@ -6792,6 +6811,63 @@
           "listed_date": "18 hours ago",
           "is_target": false,
           "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-25T02:27:37.114789",
+          "url": "https://www.edgeprop.my/listing/sale/3886976/the-scott-garden-for-sale-by-yc-lee",
+          "title": "The Scott Garden",
+          "price_text": "RM 255,150",
+          "price": 255150.0,
+          "price_psf": 333.97,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "size_sqft": 764.0,
+          "listed_date": "14 hours ago",
+          "is_target": false,
+          "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-25T02:27:37.114829",
+          "url": "https://www.edgeprop.my/listing/sale/3886978/the-scott-garden-for-sale-by-yc-lee",
+          "title": "The Scott Garden",
+          "price_text": "RM 315,000",
+          "price": 315000.0,
+          "price_psf": 412.3,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "size_sqft": 764.0,
+          "listed_date": "14 hours ago",
+          "is_target": false,
+          "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-25T02:27:37.115042",
+          "url": "https://www.edgeprop.my/listing/sale/3663142/the-scott-garden-for-sale-by-erik-oh",
+          "title": "The Scott Garden",
+          "price_text": "RM 370,000",
+          "price": 370000.0,
+          "price_psf": 477.42,
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "size_sqft": 775.0,
+          "listed_date": "a day ago",
+          "is_target": false,
+          "price_tier": "budget"
         }
       ],
       "rent_listings": [
@@ -6986,13 +7062,13 @@
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 850000.0,
-        "sale_price_median": 315900.0,
-        "sale_price_avg": 361276.76,
-        "total_sale_listings": 34,
+        "sale_price_median": 315000.0,
+        "sale_price_avg": 357393.51,
+        "total_sale_listings": 37,
         "sale_psf_min": 282.72,
         "sale_psf_max": 772.2,
         "sale_psf_median": 412.3,
-        "sale_psf_avg": 441.01,
+        "sale_psf_avg": 438.33,
         "rent_price_min": 1400.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1800.0,
@@ -7002,7 +7078,7 @@
         "rent_psf_max": 2.57,
         "rent_psf_median": 2.06,
         "rent_psf_avg": 2.12,
-        "estimated_yield": 6.84
+        "estimated_yield": 6.86
       }
     },
     "Southbank Residence": {
@@ -9896,19 +9972,19 @@
         "Millerz Square",
         "D'Ivo Residences"
       ],
-      "total_sale_listings": 184,
+      "total_sale_listings": 188,
       "total_rent_listings": 86,
       "total_transactions": 17,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
-        "sale_price_median": 440000.0,
-        "sale_price_avg": 622559.29,
-        "total_sale_listings": 184,
+        "sale_price_median": 430000.0,
+        "sale_price_avg": 615555.1,
+        "total_sale_listings": 188,
         "sale_psf_min": 243.53,
         "sale_psf_max": 1100.0,
-        "sale_psf_median": 487.37,
-        "sale_psf_avg": 559.57,
+        "sale_psf_median": 483.87,
+        "sale_psf_avg": 555.46,
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
@@ -9918,7 +9994,7 @@
         "rent_psf_max": 5.75,
         "rent_psf_median": 2.52,
         "rent_psf_avg": 2.89,
-        "estimated_yield": 5.45,
+        "estimated_yield": 5.58,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
         "txn_price_median": 738000.0,
@@ -9965,7 +10041,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-24T02:27:14.126647",
+      "scraped_at": "2026-03-25T02:31:41.835052",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -9973,7 +10049,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-24T02:27:16.192925",
+      "scraped_at": "2026-03-25T02:31:43.912316",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -9982,21 +10058,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-03-24T02:27:23.128483"
+      "scraped_at": "2026-03-25T02:31:51.636317"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-24T02:27:29.318898"
+      "scraped_at": "2026-03-25T02:31:58.026959"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-24T02:27:29.318964"
+      "scraped_at": "2026-03-25T02:31:58.027023"
     }
   ],
   "news": [],
@@ -10006,7 +10082,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-03-24T02:23:51.417675",
+      "scraped_at": "2026-03-25T02:28:23.144889",
       "transactions": []
     }
   ]

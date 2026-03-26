@@ -6291,5 +6291,42 @@
     "listed_date": "a day ago",
     "is_target": false,
     "price_tier": "budget"
+  },
+  {
+    "property": "The Scott Garden",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-26T02:34:15.995493",
+    "url": "https://www.edgeprop.my/listing/sale/2648890/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/scott-garden-soho-for-sale",
+    "title": "The Scott Garden",
+    "price_text": "RM 350,000",
+    "price": 350000.0,
+    "price_psf": 451.61,
+    "bathrooms": 1,
+    "size_sqft": 775.0,
+    "listed_date": "18 hours ago",
+    "is_target": false,
+    "price_tier": "budget"
+  },
+  {
+    "property": "D'Ivo Residences",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-26T02:34:24.815737",
+    "url": "https://www.edgeprop.my/listing/sale/3682728/d-ivo-residences-for-sale-by-livia-leow",
+    "title": "D'ivo Residences",
+    "price_text": "RM 750,000",
+    "price": 750000.0,
+    "price_psf": 689.97,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1087.0,
+    "listed_date": "18 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

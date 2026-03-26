@@ -2959,5 +2959,24 @@
     "listed_date": "10 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Millerz Square",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-26T02:34:46.927462",
+    "url": "https://www.edgeprop.my/listing/rental/3888551/millerz-square-for-rent-by-theresa-chew",
+    "title": "Millerz Square",
+    "price_text": "RM 3,300",
+    "price": 3300.0,
+    "price_psf": 3.7,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size_sqft": 891.0,
+    "listed_date": "10 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

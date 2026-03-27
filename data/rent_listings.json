@@ -2978,5 +2978,24 @@
     "listed_date": "10 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "D'Ivo Residences",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-27T02:36:24.268291",
+    "url": "https://www.edgeprop.my/listing/rental/3890033/d-ivo-residences-for-rent-by-christine-tan",
+    "title": "D'ivo Residences",
+    "price_text": "RM 3,500",
+    "price": 3500.0,
+    "price_psf": 3.92,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 892.0,
+    "listed_date": "11 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

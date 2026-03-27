@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T02:38:32.395652",
+  "generated_at": "2026-03-27T02:40:12.360017",
   "properties": {
     "Bamboo Hills Residences": {
       "region": "Bamboo Hills",
@@ -52,15 +52,15 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 581.09,
-          "sale_psf_median": 588.81,
+          "sale_psf_avg": 581.37,
+          "sale_psf_median": 594.29,
           "sale_psf_min": 410.96,
           "sale_psf_max": 686.95,
-          "sale_count": 63,
+          "sale_count": 64,
           "rent_psf_avg": 2.03,
           "rent_psf_median": 2.23,
           "rent_count": 12,
-          "sale_price_avg": 666777.78,
+          "sale_price_avg": 665890.62,
           "sale_price_median": 680000.0,
           "rent_price_avg": 2382.92,
           "rent_price_median": 2300.0
@@ -165,15 +165,15 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 373.31,
+          "sale_psf_avg": 373.39,
           "sale_psf_median": 378.95,
           "sale_psf_min": 243.53,
           "sale_psf_max": 505.26,
-          "sale_count": 67,
+          "sale_count": 68,
           "rent_psf_avg": 1.94,
           "rent_psf_median": 2.0,
           "rent_count": 16,
-          "sale_price_avg": 356110.43,
+          "sale_price_avg": 356167.63,
           "sale_price_median": 360000.0,
           "rent_price_avg": 1727.5,
           "rent_price_median": 1800.0
@@ -276,15 +276,15 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 677.8,
-          "sale_psf_median": 673.7,
+          "sale_psf_avg": 678.94,
+          "sale_psf_median": 693.33,
           "sale_psf_min": 532.54,
           "sale_psf_max": 961.8,
-          "sale_count": 13,
+          "sale_count": 14,
           "rent_psf_avg": 2.04,
           "rent_psf_median": 2.02,
           "rent_count": 3,
-          "sale_price_avg": 1978230.77,
+          "sale_price_avg": 1967642.86,
           "sale_price_median": 1200000.0,
           "rent_price_avg": 4033.33,
           "rent_price_median": 4000.0
@@ -477,12 +477,12 @@
           "sale_psf_min": 472.63,
           "sale_psf_max": 754.76,
           "sale_count": 7,
-          "rent_psf_avg": 3.62,
-          "rent_psf_median": 4.0,
-          "rent_count": 2,
+          "rent_psf_avg": 3.72,
+          "rent_psf_median": 3.92,
+          "rent_count": 3,
           "sale_price_avg": 670485.71,
           "sale_price_median": 690000.0,
-          "rent_price_avg": 2150.0,
+          "rent_price_avg": 2600.0,
           "rent_price_median": 3500.0
         }
       ]
@@ -522,8 +522,8 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 626.92,
-          "rent_psf_avg": 3.03
+          "sale_psf_avg": 627.12,
+          "rent_psf_avg": 3.04
         }
       ]
     },
@@ -548,7 +548,7 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 609.38,
+          "sale_psf_avg": 609.45,
           "rent_psf_avg": 2.18
         }
       ]

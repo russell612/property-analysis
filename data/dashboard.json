@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T02:40:12.308261",
+  "last_updated": "2026-03-28T02:31:06.109055",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -5676,6 +5676,101 @@
           "listed_date": "35 minutes ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:26:57.348172",
+          "url": "https://www.edgeprop.my/listing/sale/3891074/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 333,000",
+          "price": 333000.0,
+          "price_psf": 347.6,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:26:57.348213",
+          "url": "https://www.edgeprop.my/listing/sale/3891072/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 261,630",
+          "price": 261630.0,
+          "price_psf": 273.1,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:26:57.348339",
+          "url": "https://www.edgeprop.my/listing/sale/3891045/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 253,980",
+          "price": 253980.0,
+          "price_psf": 265.11,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:26:57.348421",
+          "url": "https://www.edgeprop.my/listing/sale/3891035/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 342,000",
+          "price": 342000.0,
+          "price_psf": 356.99,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:26:57.348459",
+          "url": "https://www.edgeprop.my/listing/sale/3890997/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 262,440",
+          "price": 262440.0,
+          "price_psf": 273.95,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -6159,13 +6254,13 @@
       "stats": {
         "sale_price_min": 233300.0,
         "sale_price_max": 480000.0,
-        "sale_price_median": 360000.0,
-        "sale_price_avg": 356167.63,
-        "total_sale_listings": 68,
+        "sale_price_median": 359000.0,
+        "sale_price_avg": 351677.38,
+        "total_sale_listings": 73,
         "sale_psf_min": 243.53,
         "sale_psf_max": 505.26,
-        "sale_psf_median": 378.95,
-        "sale_psf_avg": 373.39,
+        "sale_psf_median": 377.89,
+        "sale_psf_avg": 368.59,
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1650.0,
@@ -6175,7 +6270,7 @@
         "rent_psf_max": 2.9,
         "rent_psf_median": 1.79,
         "rent_psf_avg": 1.91,
-        "estimated_yield": 5.5
+        "estimated_yield": 5.52
       }
     },
     "The Scott Garden": {
@@ -7112,6 +7207,25 @@
           "listed_date": "4 months ago",
           "is_target": false,
           "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:27:21.065049",
+          "url": "https://www.edgeprop.my/listing/rental/3891111/the-scott-garden-for-rent-by-eddie-loh",
+          "title": "The Scott Garden",
+          "price_text": "RM 2,300",
+          "price": 2300.0,
+          "price_psf": 1.64,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "size_sqft": 1399.0,
+          "listed_date": "17 hours ago",
+          "is_target": false,
+          "price_tier": "budget"
         }
       ],
       "transactions": [],
@@ -7128,12 +7242,12 @@
         "rent_price_min": 1400.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1800.0,
-        "rent_price_avg": 1810.0,
-        "total_rent_listings": 10,
-        "rent_psf_min": 1.78,
+        "rent_price_avg": 1854.55,
+        "total_rent_listings": 11,
+        "rent_psf_min": 1.64,
         "rent_psf_max": 2.57,
         "rent_psf_median": 2.06,
-        "rent_psf_avg": 2.12,
+        "rent_psf_avg": 2.08,
         "estimated_yield": 6.84
       }
     },
@@ -8155,6 +8269,25 @@
           "listed_date": "an hour ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Verve Suites KL South",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:27:04.109899",
+          "url": "https://www.edgeprop.my/listing/sale/2813482/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale-below-market-value-menara-verve-suites-klang-lama-kuala-lumpur",
+          "title": "VERVE Suites KL South",
+          "price_text": "RM 412,000",
+          "price": 412000.0,
+          "price_psf": 562.84,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "size_sqft": 732.0,
+          "listed_date": "11 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -8347,6 +8480,25 @@
           "listed_date": "2 months ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Verve Suites KL South",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:27:27.280000",
+          "url": "https://www.edgeprop.my/listing/rental/3891310/verve-suites-kl-south-for-rent-by-cs-ow",
+          "title": "FEATURED",
+          "price_text": "RM 2,499",
+          "price": 2499.0,
+          "price_psf": 3.13,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "size_sqft": 798.0,
+          "listed_date": "15 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -8354,21 +8506,21 @@
         "sale_price_min": 360000.0,
         "sale_price_max": 1320000.0,
         "sale_price_median": 610000.0,
-        "sale_price_avg": 600176.47,
-        "total_sale_listings": 17,
+        "sale_price_avg": 589722.22,
+        "total_sale_listings": 18,
         "sale_psf_min": 477.06,
         "sale_psf_max": 1100.0,
         "sale_psf_median": 800.46,
-        "sale_psf_avg": 783.22,
+        "sale_psf_avg": 770.97,
         "rent_price_min": 800.0,
         "rent_price_max": 3000.0,
         "rent_price_median": 2300.0,
-        "rent_price_avg": 2139.0,
-        "total_rent_listings": 10,
+        "rent_price_avg": 2171.73,
+        "total_rent_listings": 11,
         "rent_psf_min": 2.88,
         "rent_psf_max": 5.33,
-        "rent_psf_median": 3.55,
-        "rent_psf_avg": 3.66,
+        "rent_psf_median": 3.32,
+        "rent_psf_avg": 3.61,
         "estimated_yield": 4.52
       }
     },
@@ -10028,6 +10180,25 @@
           "listed_date": "11 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "D'Ivo Residences",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-28T02:27:30.942237",
+          "url": "https://www.edgeprop.my/listing/rental/3890954/d-ivo-residences-for-rent-by-andy-ng",
+          "title": "D'ivo Residences",
+          "price_text": "RM 3,500",
+          "price": 3500.0,
+          "price_psf": 3.92,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 892.0,
+          "listed_date": "18 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -10043,60 +10214,18 @@
         "sale_psf_avg": 670.31,
         "rent_price_min": 800.0,
         "rent_price_max": 3500.0,
-        "rent_price_median": 1300.0,
-        "rent_price_avg": 1834.62,
-        "total_rent_listings": 13,
+        "rent_price_median": 2200.0,
+        "rent_price_avg": 1953.57,
+        "total_rent_listings": 14,
         "rent_psf_min": 1.07,
         "rent_psf_max": 5.75,
-        "rent_psf_median": 2.81,
-        "rent_psf_avg": 2.84,
-        "estimated_yield": 2.26
+        "rent_psf_median": 2.91,
+        "rent_psf_avg": 2.92,
+        "estimated_yield": 3.83
       }
     }
   },
   "regions": {
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 192,
-      "total_rent_listings": 88,
-      "total_transactions": 17,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 430000.0,
-        "sale_price_avg": 619866.45,
-        "total_sale_listings": 192,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 1100.0,
-        "sale_psf_median": 483.87,
-        "sale_psf_avg": 555.42,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2000.0,
-        "rent_price_avg": 2198.84,
-        "total_rent_listings": 86,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.57,
-        "rent_psf_avg": 2.91,
-        "estimated_yield": 5.58,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1330000.0,
-        "txn_price_median": 738000.0,
-        "total_transactions": 17,
-        "txn_psf_median": 475.0,
-        "txn_psf_avg": 521.65
-      }
-    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -10133,6 +10262,48 @@
         "total_transactions": 12,
         "txn_psf_median": 455.0,
         "txn_psf_avg": 457.67
+      }
+    },
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 198,
+      "total_rent_listings": 91,
+      "total_transactions": 17,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 430000.0,
+        "sale_price_avg": 610502.07,
+        "total_sale_listings": 198,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 1100.0,
+        "sale_psf_median": 477.06,
+        "sale_psf_avg": 549.1,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2100.0,
+        "rent_price_avg": 2217.97,
+        "total_rent_listings": 89,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.63,
+        "rent_psf_avg": 2.91,
+        "estimated_yield": 5.86,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1330000.0,
+        "txn_price_median": 738000.0,
+        "total_transactions": 17,
+        "txn_psf_median": 475.0,
+        "txn_psf_avg": 521.65
       }
     }
   },
@@ -10173,7 +10344,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-27T02:39:55.085659",
+      "scraped_at": "2026-03-28T02:30:50.275360",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -10181,7 +10352,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-27T02:39:57.782231",
+      "scraped_at": "2026-03-28T02:30:52.591243",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -10190,21 +10361,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-03-27T02:40:05.464215"
+      "scraped_at": "2026-03-28T02:30:59.891592"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-27T02:40:12.291184"
+      "scraped_at": "2026-03-28T02:31:06.091447"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-27T02:40:12.291248"
+      "scraped_at": "2026-03-28T02:31:06.091513"
     }
   ],
   "news": [],
@@ -10214,7 +10385,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-03-27T02:36:32.978061",
+      "scraped_at": "2026-03-28T02:27:38.191717",
       "transactions": []
     }
   ]

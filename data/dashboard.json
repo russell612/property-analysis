@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T02:31:06.109055",
+  "last_updated": "2026-03-29T02:43:32.501761",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -6248,6 +6248,25 @@
           "listed_date": "17 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-03-29T02:39:43.856608",
+          "url": "https://www.edgeprop.my/listing/rental/3891897/oug-parklane-for-rent-by-zoe-liaw",
+          "title": "OUG Parklane",
+          "price_text": "RM 1,500",
+          "price": 1500.0,
+          "price_psf": 1.58,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "a day ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -6264,12 +6283,12 @@
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1650.0,
-        "rent_price_avg": 1672.4,
-        "total_rent_listings": 25,
+        "rent_price_avg": 1665.77,
+        "total_rent_listings": 26,
         "rent_psf_min": 1.37,
         "rent_psf_max": 2.9,
         "rent_psf_median": 1.79,
-        "rent_psf_avg": 1.91,
+        "rent_psf_avg": 1.89,
         "estimated_yield": 5.52
       }
     },
@@ -10226,6 +10245,48 @@
     }
   },
   "regions": {
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 198,
+      "total_rent_listings": 92,
+      "total_transactions": 17,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 430000.0,
+        "sale_price_avg": 610502.07,
+        "total_sale_listings": 198,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 1100.0,
+        "sale_psf_median": 477.06,
+        "sale_psf_avg": 549.1,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2100.0,
+        "rent_price_avg": 2209.99,
+        "total_rent_listings": 90,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.57,
+        "rent_psf_avg": 2.9,
+        "estimated_yield": 5.86,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1330000.0,
+        "txn_price_median": 738000.0,
+        "total_transactions": 17,
+        "txn_psf_median": 475.0,
+        "txn_psf_avg": 521.65
+      }
+    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -10262,48 +10323,6 @@
         "total_transactions": 12,
         "txn_psf_median": 455.0,
         "txn_psf_avg": 457.67
-      }
-    },
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 198,
-      "total_rent_listings": 91,
-      "total_transactions": 17,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 430000.0,
-        "sale_price_avg": 610502.07,
-        "total_sale_listings": 198,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 1100.0,
-        "sale_psf_median": 477.06,
-        "sale_psf_avg": 549.1,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2100.0,
-        "rent_price_avg": 2217.97,
-        "total_rent_listings": 89,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.63,
-        "rent_psf_avg": 2.91,
-        "estimated_yield": 5.86,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1330000.0,
-        "txn_price_median": 738000.0,
-        "total_transactions": 17,
-        "txn_psf_median": 475.0,
-        "txn_psf_avg": 521.65
       }
     }
   },
@@ -10344,7 +10363,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-28T02:30:50.275360",
+      "scraped_at": "2026-03-29T02:43:15.200682",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -10352,7 +10371,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-03-28T02:30:52.591243",
+      "scraped_at": "2026-03-29T02:43:18.874469",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -10361,21 +10380,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-03-28T02:30:59.891592"
+      "scraped_at": "2026-03-29T02:43:26.325368"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-28T02:31:06.091447"
+      "scraped_at": "2026-03-29T02:43:32.484593"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-03-28T02:31:06.091513"
+      "scraped_at": "2026-03-29T02:43:32.484658"
     }
   ],
   "news": [],
@@ -10385,7 +10404,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-03-28T02:27:38.191717",
+      "scraped_at": "2026-03-29T02:40:00.459163",
       "transactions": []
     }
   ]

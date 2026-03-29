@@ -3054,5 +3054,24 @@
     "listed_date": "18 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "OUG Parklane",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-03-29T02:39:43.856608",
+    "url": "https://www.edgeprop.my/listing/rental/3891897/oug-parklane-for-rent-by-zoe-liaw",
+    "title": "OUG Parklane",
+    "price_text": "RM 1,500",
+    "price": 1500.0,
+    "price_psf": 1.58,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 950.0,
+    "listed_date": "a day ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

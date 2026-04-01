@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T02:41:43.386913",
+  "generated_at": "2026-04-01T02:53:14.753130",
   "properties": {
     "Bamboo Hills Residences": {
       "region": "Bamboo Hills",
@@ -64,6 +64,14 @@
           "sale_price_median": 680000.0,
           "rent_price_avg": 2382.92,
           "rent_price_median": 2300.0
+        },
+        {
+          "month": "2026-04",
+          "rent_psf_avg": 1.98,
+          "rent_psf_median": 1.98,
+          "rent_count": 1,
+          "rent_price_avg": 2499.0,
+          "rent_price_median": 2499.0
         }
       ]
     },
@@ -177,6 +185,14 @@
           "sale_price_median": 360000.0,
           "rent_price_avg": 1702.0,
           "rent_price_median": 1700.0
+        },
+        {
+          "month": "2026-04",
+          "rent_psf_avg": 1.95,
+          "rent_psf_median": 1.95,
+          "rent_count": 1,
+          "rent_price_avg": 1850.0,
+          "rent_price_median": 1850.0
         }
       ]
     },
@@ -202,16 +218,16 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 438.68,
-          "sale_psf_median": 412.3,
+          "sale_psf_avg": 443.9,
+          "sale_psf_median": 413.48,
           "sale_psf_min": 282.72,
           "sale_psf_max": 772.2,
-          "sale_count": 38,
+          "sale_count": 40,
           "rent_psf_avg": 2.08,
           "rent_psf_median": 2.06,
           "rent_count": 5,
-          "sale_price_avg": 357198.95,
-          "sale_price_median": 315900.0,
+          "sale_price_avg": 360089.0,
+          "sale_price_median": 320760.0,
           "rent_price_avg": 2040.0,
           "rent_price_median": 2000.0
         }
@@ -408,6 +424,16 @@
           "sale_price_median": 700000.0,
           "rent_price_avg": 2845.0,
           "rent_price_median": 3000.0
+        },
+        {
+          "month": "2026-04",
+          "sale_psf_avg": 947.19,
+          "sale_psf_median": 947.19,
+          "sale_psf_min": 947.19,
+          "sale_psf_max": 947.19,
+          "sale_count": 1,
+          "sale_price_avg": 825000.0,
+          "sale_price_median": 825000.0
         }
       ]
     },
@@ -489,6 +515,36 @@
     }
   },
   "summary": {
+    "Bamboo Hills": {
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 1.8
+        },
+        {
+          "month": "2025-12",
+          "rent_psf_avg": 1.94
+        },
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 2.28
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 545.14,
+          "rent_psf_avg": 2.06
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 609.45,
+          "rent_psf_avg": 2.18
+        },
+        {
+          "month": "2026-04",
+          "rent_psf_avg": 1.98
+        }
+      ]
+    },
     "Old Klang Road": {
       "monthly": [
         {
@@ -522,34 +578,13 @@
         },
         {
           "month": "2026-03",
-          "sale_psf_avg": 635.53,
+          "sale_psf_avg": 636.4,
           "rent_psf_avg": 2.99
-        }
-      ]
-    },
-    "Bamboo Hills": {
-      "monthly": [
-        {
-          "month": "2025-10",
-          "rent_psf_avg": 1.8
         },
         {
-          "month": "2025-12",
-          "rent_psf_avg": 1.94
-        },
-        {
-          "month": "2026-01",
-          "rent_psf_avg": 2.28
-        },
-        {
-          "month": "2026-02",
-          "sale_psf_avg": 545.14,
-          "rent_psf_avg": 2.06
-        },
-        {
-          "month": "2026-03",
-          "sale_psf_avg": 609.45,
-          "rent_psf_avg": 2.18
+          "month": "2026-04",
+          "sale_psf_avg": 947.19,
+          "rent_psf_avg": 1.95
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T02:53:14.696038",
+  "last_updated": "2026-04-02T02:36:51.061324",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -3628,6 +3628,63 @@
           "listed_date": "18 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:53.660506",
+          "url": "https://www.edgeprop.my/listing/rental/3898963/united-point-residensi-berpadu-for-rent-by-cs-ow",
+          "title": "FEATURED",
+          "price_text": "RM 1,999",
+          "price": 1999.0,
+          "price_psf": 2.02,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 990.0,
+          "listed_date": "3 minutes ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:53.660631",
+          "url": "https://www.edgeprop.my/listing/rental/3898595/united-point-residensi-berpadu-for-rent-by-adrian-wong",
+          "title": "United Point (Residensi Berpadu)",
+          "price_text": "RM 2,500",
+          "price": 2500.0,
+          "price_psf": 2.61,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "9 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:53.660672",
+          "url": "https://www.edgeprop.my/listing/rental/3898043/united-point-residensi-berpadu-for-rent-by-darren-chan",
+          "title": "United Point (Residensi Berpadu)",
+          "price_text": "RM 2,300",
+          "price": 2300.0,
+          "price_psf": 2.56,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 900.0,
+          "listed_date": "18 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -3644,8 +3701,8 @@
         "rent_price_min": 1800.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2299.0,
-        "rent_price_avg": 2299.65,
-        "total_rent_listings": 37,
+        "rent_price_avg": 2297.15,
+        "total_rent_listings": 40,
         "rent_psf_min": 1.88,
         "rent_psf_max": 3.34,
         "rent_psf_median": 2.4,
@@ -4346,6 +4403,25 @@
           "listed_date": "5 months ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Tuan Residency",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:55.746642",
+          "url": "https://www.edgeprop.my/listing/rental/3019854/kuala_lumpur/segambut/nonlanded/condominium-apartment-servicedresidence/for-rent---untuk-disewa-fully-furnished-tuan-residency-condominium-jalan-kuching-kuala-lumpur",
+          "title": "Tuan Residency (Residensi Selingsing)",
+          "price_text": "RM 1,800",
+          "price": 1800.0,
+          "price_psf": 2.05,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 878.0,
+          "listed_date": "11 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -4362,8 +4438,8 @@
         "rent_price_min": 1650.0,
         "rent_price_max": 2300.0,
         "rent_price_median": 1800.0,
-        "rent_price_avg": 1887.42,
-        "total_rent_listings": 12,
+        "rent_price_avg": 1880.69,
+        "total_rent_listings": 13,
         "rent_psf_min": 1.84,
         "rent_psf_max": 2.45,
         "rent_psf_median": 2.05,
@@ -5904,6 +5980,25 @@
           "listed_date": "13 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:33.629169",
+          "url": "https://www.edgeprop.my/listing/sale/3890985/oug-parklane-for-sale-by-eddie-loh",
+          "title": "OUG Parklane",
+          "price_text": "RM 283,500",
+          "price": 283500.0,
+          "price_psf": 295.93,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "20 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -6476,6 +6571,25 @@
           "listed_date": "2 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-02T02:32:57.637399",
+          "url": "https://www.edgeprop.my/listing/rental/3898230/oug-parklane-for-rent-by-james-lim",
+          "title": "OUG Parklane",
+          "price_text": "RM 1,900",
+          "price": 1900.0,
+          "price_psf": 2.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "15 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -6483,17 +6597,17 @@
         "sale_price_min": 233300.0,
         "sale_price_max": 1500000.0,
         "sale_price_median": 360000.0,
-        "sale_price_avg": 366099.35,
-        "total_sale_listings": 79,
+        "sale_price_avg": 365066.86,
+        "total_sale_listings": 80,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
         "sale_psf_median": 377.89,
-        "sale_psf_avg": 455.75,
+        "sale_psf_avg": 453.75,
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1700.0,
-        "rent_price_avg": 1668.67,
-        "total_rent_listings": 30,
+        "rent_price_avg": 1676.13,
+        "total_rent_listings": 31,
         "rent_psf_min": 1.37,
         "rent_psf_max": 2.9,
         "rent_psf_median": 1.79,
@@ -10530,6 +10644,48 @@
     }
   },
   "regions": {
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 209,
+      "total_rent_listings": 97,
+      "total_transactions": 17,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 412000.0,
+        "sale_price_avg": 605164.16,
+        "total_sale_listings": 209,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 7200.0,
+        "sale_psf_median": 473.68,
+        "sale_psf_avg": 577.56,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2000.0,
+        "rent_price_avg": 2184.73,
+        "total_rent_listings": 95,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.5,
+        "rent_psf_avg": 2.84,
+        "estimated_yield": 5.83,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1330000.0,
+        "txn_price_median": 738000.0,
+        "total_transactions": 17,
+        "txn_psf_median": 475.0,
+        "txn_psf_avg": 521.65
+      }
+    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -10538,7 +10694,7 @@
         "Tuan Residency"
       ],
       "total_sale_listings": 146,
-      "total_rent_listings": 72,
+      "total_rent_listings": 76,
       "total_transactions": 12,
       "stats": {
         "sale_price_min": 333000.0,
@@ -10553,8 +10709,8 @@
         "rent_price_min": 1650.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2299.0,
-        "rent_price_avg": 2243.26,
-        "total_rent_listings": 70,
+        "rent_price_avg": 2238.2,
+        "total_rent_listings": 74,
         "rent_psf_min": 1.6,
         "rent_psf_max": 3.34,
         "rent_psf_median": 2.19,
@@ -10566,48 +10722,6 @@
         "total_transactions": 12,
         "txn_psf_median": 455.0,
         "txn_psf_avg": 457.67
-      }
-    },
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 208,
-      "total_rent_listings": 96,
-      "total_transactions": 17,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 416000.0,
-        "sale_price_avg": 606710.62,
-        "total_sale_listings": 208,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 7200.0,
-        "sale_psf_median": 477.06,
-        "sale_psf_avg": 578.91,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2000.0,
-        "rent_price_avg": 2187.76,
-        "total_rent_listings": 94,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.5,
-        "rent_psf_avg": 2.85,
-        "estimated_yield": 5.77,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1330000.0,
-        "txn_price_median": 738000.0,
-        "total_transactions": 17,
-        "txn_psf_median": 475.0,
-        "txn_psf_avg": 521.65
       }
     }
   },
@@ -10648,7 +10762,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-01T02:52:58.485030",
+      "scraped_at": "2026-04-02T02:36:33.928171",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -10656,7 +10770,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-01T02:53:01.439456",
+      "scraped_at": "2026-04-02T02:36:37.097050",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -10665,21 +10779,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-01T02:53:08.502490"
+      "scraped_at": "2026-04-02T02:36:44.409390"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-01T02:53:14.677937"
+      "scraped_at": "2026-04-02T02:36:51.041689"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-01T02:53:14.678002"
+      "scraped_at": "2026-04-02T02:36:51.041752"
     }
   ],
   "news": [],
@@ -10689,7 +10803,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-01T02:49:40.801423",
+      "scraped_at": "2026-04-02T02:33:15.064811",
       "transactions": []
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T02:36:51.061324",
+  "last_updated": "2026-04-03T02:38:22.673223",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -1848,6 +1848,25 @@
           "listed_date": "an hour ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Scenaria @ North Kiara Hills",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-03T02:34:19.924157",
+          "url": "https://www.edgeprop.my/listing/rental/3899247/scenaria-laman-scenaria-kiara-for-rent-by-wing-seow",
+          "title": "FEATURED",
+          "price_text": "RM 2,500",
+          "price": 2500.0,
+          "price_psf": 2.0,
+          "bedrooms": 1,
+          "bathrooms": 3,
+          "size_sqft": 1250.0,
+          "listed_date": "a day ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -1864,12 +1883,12 @@
         "rent_price_min": 1700.0,
         "rent_price_max": 2900.0,
         "rent_price_median": 2300.0,
-        "rent_price_avg": 2347.24,
-        "total_rent_listings": 21,
+        "rent_price_avg": 2354.18,
+        "total_rent_listings": 22,
         "rent_psf_min": 1.6,
         "rent_psf_max": 2.45,
         "rent_psf_median": 2.0,
-        "rent_psf_avg": 1.97,
+        "rent_psf_avg": 1.98,
         "estimated_yield": 4.06
       }
     },
@@ -2923,6 +2942,44 @@
           "listed_date": "14 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-03T02:33:57.904106",
+          "url": "https://www.edgeprop.my/listing/sale/3406851/residensi-berpadu-for-sale-by-anven-property",
+          "title": "Residensi Berpadu",
+          "price_text": "RM 486,000",
+          "price": 486000.0,
+          "price_psf": 507.31,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "5 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-03T02:33:57.904356",
+          "url": "https://www.edgeprop.my/listing/sale/3899283/united-point-residensi-berpadu-for-sale-by-michelle-yuin",
+          "title": "United Point (Residensi Berpadu)",
+          "price_text": "RM 499,999",
+          "price": 499999.0,
+          "price_psf": 603.14,
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "size_sqft": 829.0,
+          "listed_date": "21 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -3685,29 +3742,48 @@
           "listed_date": "18 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "United Point Residence",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-03T02:34:21.730057",
+          "url": "https://www.edgeprop.my/listing/rental/3899299/united-point-residensi-berpadu-for-rent-by-wing-seow",
+          "title": "FEATURED",
+          "price_text": "RM 2,500",
+          "price": 2500.0,
+          "price_psf": 2.61,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 958.0,
+          "listed_date": "21 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
       "stats": {
         "sale_price_min": 449999.0,
         "sale_price_max": 800000.0,
-        "sale_price_median": 598000.0,
-        "sale_price_avg": 608425.78,
-        "total_sale_listings": 54,
-        "sale_psf_min": 542.82,
+        "sale_price_median": 595000.0,
+        "sale_price_avg": 604303.41,
+        "total_sale_listings": 56,
+        "sale_psf_min": 507.31,
         "sale_psf_max": 717.73,
         "sale_psf_median": 615.87,
-        "sale_psf_avg": 622.03,
+        "sale_psf_avg": 619.65,
         "rent_price_min": 1800.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2299.0,
-        "rent_price_avg": 2297.15,
-        "total_rent_listings": 40,
+        "rent_price_avg": 2302.1,
+        "total_rent_listings": 41,
         "rent_psf_min": 1.88,
         "rent_psf_max": 3.34,
         "rent_psf_median": 2.4,
-        "rent_psf_avg": 2.39,
-        "estimated_yield": 4.61
+        "rent_psf_avg": 2.4,
+        "estimated_yield": 4.64
       }
     },
     "Tuan Residency": {
@@ -7399,6 +7475,25 @@
           "listed_date": "18 hours ago",
           "is_target": false,
           "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-03T02:34:03.368162",
+          "url": "https://www.edgeprop.my/listing/sale/3114660/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/chepeast-duplex-unit---scott-garden-okr",
+          "title": "The Scott Garden",
+          "price_text": "RM 380,000",
+          "price": 380000.0,
+          "price_psf": 497.38,
+          "bedrooms": 1,
+          "bathrooms": 2,
+          "size_sqft": 764.0,
+          "listed_date": "a day ago",
+          "is_target": false,
+          "price_tier": "budget"
         }
       ],
       "rent_listings": [
@@ -7613,12 +7708,12 @@
         "sale_price_min": 216000.0,
         "sale_price_max": 850000.0,
         "sale_price_median": 320760.0,
-        "sale_price_avg": 360089.0,
-        "total_sale_listings": 40,
+        "sale_price_avg": 360574.63,
+        "total_sale_listings": 41,
         "sale_psf_min": 282.72,
         "sale_psf_max": 772.2,
         "sale_psf_median": 413.48,
-        "sale_psf_avg": 443.9,
+        "sale_psf_avg": 445.21,
         "rent_price_min": 1400.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1800.0,
@@ -10644,6 +10739,44 @@
     }
   },
   "regions": {
+    "Bamboo Hills": {
+      "properties": [
+        "Bamboo Hills Residences",
+        "Scenaria @ North Kiara Hills",
+        "United Point Residence",
+        "Tuan Residency"
+      ],
+      "total_sale_listings": 148,
+      "total_rent_listings": 78,
+      "total_transactions": 12,
+      "stats": {
+        "sale_price_min": 333000.0,
+        "sale_price_max": 850000.0,
+        "sale_price_median": 600000.0,
+        "sale_price_avg": 607394.5,
+        "total_sale_listings": 147,
+        "sale_psf_min": 386.76,
+        "sale_psf_max": 729.68,
+        "sale_psf_median": 594.29,
+        "sale_psf_avg": 590.87,
+        "rent_price_min": 1650.0,
+        "rent_price_max": 3200.0,
+        "rent_price_median": 2299.0,
+        "rent_price_avg": 2245.09,
+        "total_rent_listings": 76,
+        "rent_psf_min": 1.6,
+        "rent_psf_max": 3.34,
+        "rent_psf_median": 2.19,
+        "rent_psf_avg": 2.22,
+        "estimated_yield": 4.6,
+        "txn_price_min": 183500.0,
+        "txn_price_max": 1270000.0,
+        "txn_price_median": 430000.0,
+        "total_transactions": 12,
+        "txn_psf_median": 455.0,
+        "txn_psf_avg": 457.67
+      }
+    },
     "Old Klang Road": {
       "properties": [
         "GenStarz",
@@ -10655,19 +10788,19 @@
         "Millerz Square",
         "D'Ivo Residences"
       ],
-      "total_sale_listings": 209,
+      "total_sale_listings": 210,
       "total_rent_listings": 97,
       "total_transactions": 17,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
         "sale_price_median": 412000.0,
-        "sale_price_avg": 605164.16,
-        "total_sale_listings": 209,
+        "sale_price_avg": 604091.95,
+        "total_sale_listings": 210,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
-        "sale_psf_median": 473.68,
-        "sale_psf_avg": 577.56,
+        "sale_psf_median": 477.06,
+        "sale_psf_avg": 577.18,
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
@@ -10684,44 +10817,6 @@
         "total_transactions": 17,
         "txn_psf_median": 475.0,
         "txn_psf_avg": 521.65
-      }
-    },
-    "Bamboo Hills": {
-      "properties": [
-        "Bamboo Hills Residences",
-        "Scenaria @ North Kiara Hills",
-        "United Point Residence",
-        "Tuan Residency"
-      ],
-      "total_sale_listings": 146,
-      "total_rent_listings": 76,
-      "total_transactions": 12,
-      "stats": {
-        "sale_price_min": 333000.0,
-        "sale_price_max": 850000.0,
-        "sale_price_median": 610000.0,
-        "sale_price_avg": 608972.36,
-        "total_sale_listings": 145,
-        "sale_psf_min": 386.76,
-        "sale_psf_max": 729.68,
-        "sale_psf_median": 594.29,
-        "sale_psf_avg": 591.36,
-        "rent_price_min": 1650.0,
-        "rent_price_max": 3200.0,
-        "rent_price_median": 2299.0,
-        "rent_price_avg": 2238.2,
-        "total_rent_listings": 74,
-        "rent_psf_min": 1.6,
-        "rent_psf_max": 3.34,
-        "rent_psf_median": 2.19,
-        "rent_psf_avg": 2.22,
-        "estimated_yield": 4.52,
-        "txn_price_min": 183500.0,
-        "txn_price_max": 1270000.0,
-        "txn_price_median": 430000.0,
-        "total_transactions": 12,
-        "txn_psf_median": 455.0,
-        "txn_psf_avg": 457.67
       }
     }
   },
@@ -10762,7 +10857,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-02T02:36:33.928171",
+      "scraped_at": "2026-04-03T02:38:04.956296",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -10770,7 +10865,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-02T02:36:37.097050",
+      "scraped_at": "2026-04-03T02:38:09.600159",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -10779,21 +10874,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-02T02:36:44.409390"
+      "scraped_at": "2026-04-03T02:38:16.541733"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-02T02:36:51.041689"
+      "scraped_at": "2026-04-03T02:38:22.655353"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-02T02:36:51.041752"
+      "scraped_at": "2026-04-03T02:38:22.655416"
     }
   ],
   "news": [],
@@ -10803,7 +10898,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-02T02:33:15.064811",
+      "scraped_at": "2026-04-03T02:34:43.352563",
       "transactions": []
     }
   ]

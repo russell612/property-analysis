@@ -3263,5 +3263,43 @@
     "listed_date": "15 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Scenaria @ North Kiara Hills",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-03T02:34:19.924157",
+    "url": "https://www.edgeprop.my/listing/rental/3899247/scenaria-laman-scenaria-kiara-for-rent-by-wing-seow",
+    "title": "FEATURED",
+    "price_text": "RM 2,500",
+    "price": 2500.0,
+    "price_psf": 2.0,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size_sqft": 1250.0,
+    "listed_date": "a day ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "United Point Residence",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-03T02:34:21.730057",
+    "url": "https://www.edgeprop.my/listing/rental/3899299/united-point-residensi-berpadu-for-rent-by-wing-seow",
+    "title": "FEATURED",
+    "price_text": "RM 2,500",
+    "price": 2500.0,
+    "price_psf": 2.61,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 958.0,
+    "listed_date": "21 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

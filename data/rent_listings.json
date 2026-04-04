@@ -3301,5 +3301,43 @@
     "listed_date": "21 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "OUG Parklane",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-04T02:27:00.017333",
+    "url": "https://www.edgeprop.my/listing/rental/3901864/oug-parklane-for-rent-by-ken-yap",
+    "title": "OUG Parklane",
+    "price_text": "RM 1,850",
+    "price": 1850.0,
+    "price_psf": 1.95,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 950.0,
+    "listed_date": "16 minutes ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "D'Ivo Residences",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-04T02:27:10.453537",
+    "url": "https://www.edgeprop.my/listing/rental/3900692/d-ivo-residences-for-rent-by-zoe-liaw",
+    "title": "D'ivo Residences",
+    "price_text": "RM 3,600",
+    "price": 3600.0,
+    "price_psf": 3.32,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size_sqft": 1083.0,
+    "listed_date": "an hour ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

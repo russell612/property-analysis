@@ -6822,5 +6822,24 @@
     "listed_date": "20 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "OUG Parklane",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-05T02:42:07.399136",
+    "url": "https://www.edgeprop.my/listing/sale/3254521/oug-parklane-for-sale-by-kenny-lai",
+    "title": "OUG Parklane",
+    "price_text": "RM 395,000",
+    "price": 395000.0,
+    "price_psf": 415.79,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 950.0,
+    "listed_date": "10 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

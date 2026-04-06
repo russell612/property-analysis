@@ -3356,5 +3356,24 @@
     "listed_date": "17 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Tuan Residency",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-06T02:43:37.006468",
+    "url": "https://www.edgeprop.my/listing/room_rental/3903509/tuan-residency-residensi-selingsing-for-rent-by-ester-chin",
+    "title": "Tuan Residency (Residensi Selingsing)",
+    "price_text": "RM 2,200",
+    "price": 2200.0,
+    "price_psf": 2.45,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 898.0,
+    "listed_date": "14 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

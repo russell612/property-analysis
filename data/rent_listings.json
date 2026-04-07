@@ -3375,5 +3375,43 @@
     "listed_date": "14 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Tuan Residency",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-07T02:37:38.918703",
+    "url": "https://www.edgeprop.my/listing/rental/3904106/tuan-residency-residensi-selingsing-for-rent-by-summer-koh",
+    "title": "Tuan Residency (Residensi Selingsing)",
+    "price_text": "RM 1,800",
+    "price": 1800.0,
+    "price_psf": 1.77,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1015.0,
+    "listed_date": "a day ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "D'Ivo Residences",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-07T02:37:51.685967",
+    "url": "https://www.edgeprop.my/listing/rental/3905077/d-ivo-residences-for-rent-by-zoe-liaw",
+    "title": "D'ivo Residences",
+    "price_text": "RM 3,500",
+    "price": 3500.0,
+    "price_psf": 3.92,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 892.0,
+    "listed_date": "an hour ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

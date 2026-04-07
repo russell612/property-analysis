@@ -6841,5 +6841,24 @@
     "listed_date": "10 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "OUG Parklane",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-07T02:37:17.282191",
+    "url": "https://www.edgeprop.my/listing/sale/3196296/oug-parklane-for-sale-by-chia-wai-yong",
+    "title": "OUG Parklane",
+    "price_text": "RM 360,000",
+    "price": 360000.0,
+    "price_psf": 378.95,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 950.0,
+    "listed_date": "12 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

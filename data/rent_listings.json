@@ -3413,5 +3413,43 @@
     "listed_date": "an hour ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "United Point Residence",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-08T02:40:44.070050",
+    "url": "https://www.edgeprop.my/listing/rental/3781259/united-point-residence-residensi-bersepadu-for-rent-by-mohd-fadli",
+    "title": "United Point Residence (Residensi Bersepadu)",
+    "price_text": "RM 2,600",
+    "price": 2600.0,
+    "price_psf": 3.15,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 825.0,
+    "listed_date": "2 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "United Point Residence",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-08T02:40:44.070094",
+    "url": "https://www.edgeprop.my/listing/rental/3781231/united-point-residence-residensi-bersepadu-for-rent-by-mohd-fadli",
+    "title": "United Point Residence (Residensi Bersepadu)",
+    "price_text": "RM 2,300",
+    "price": 2300.0,
+    "price_psf": 2.79,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 825.0,
+    "listed_date": "2 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

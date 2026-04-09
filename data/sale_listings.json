@@ -6860,5 +6860,43 @@
     "listed_date": "12 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Verve Suites KL South",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-09T02:33:22.919464",
+    "url": "https://www.edgeprop.my/listing/sale/2813482/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale-28-below-market-value-menara-verve-suites-klang-lama-kuala-lumpur",
+    "title": "VERVE Suites KL South",
+    "price_text": "RM 370,800",
+    "price": 370800.0,
+    "price_psf": 506.56,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 732.0,
+    "listed_date": "10 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "Millerz Square",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-09T02:33:25.382299",
+    "url": "https://www.edgeprop.my/listing/sale/3563516/millerz-square-for-sale-by-property-sarawak-lim-muisan-land-estate",
+    "title": "Millerz Square",
+    "price_text": "RM 565,000",
+    "price": 565000.0,
+    "price_psf": 856.06,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqft": 660.0,
+    "listed_date": "a day ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

@@ -6898,5 +6898,24 @@
     "listed_date": "a day ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "The Scott Garden",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-10T02:44:47.526259",
+    "url": "https://www.edgeprop.my/listing/sale/3911050/the-scott-garden-for-sale-by-alvin-lee",
+    "title": "The Scott Garden",
+    "price_text": "RM 405,000",
+    "price": 405000.0,
+    "price_psf": 291.58,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1389.0,
+    "listed_date": "3 hours ago",
+    "is_target": false,
+    "price_tier": "budget"
   }
 ]

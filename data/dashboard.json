@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:37:31.822892",
+  "last_updated": "2026-04-10T02:49:36.769503",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -7665,6 +7665,25 @@
           "listed_date": "a day ago",
           "is_target": false,
           "price_tier": "budget"
+        },
+        {
+          "property": "The Scott Garden",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-10T02:44:47.526259",
+          "url": "https://www.edgeprop.my/listing/sale/3911050/the-scott-garden-for-sale-by-alvin-lee",
+          "title": "The Scott Garden",
+          "price_text": "RM 405,000",
+          "price": 405000.0,
+          "price_psf": 291.58,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 1389.0,
+          "listed_date": "3 hours ago",
+          "is_target": false,
+          "price_tier": "budget"
         }
       ],
       "rent_listings": [
@@ -7878,13 +7897,13 @@
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 850000.0,
-        "sale_price_median": 320760.0,
-        "sale_price_avg": 360574.63,
-        "total_sale_listings": 41,
+        "sale_price_median": 321000.0,
+        "sale_price_avg": 361632.38,
+        "total_sale_listings": 42,
         "sale_psf_min": 282.72,
         "sale_psf_max": 772.2,
         "sale_psf_median": 413.48,
-        "sale_psf_avg": 445.21,
+        "sale_psf_avg": 441.55,
         "rent_price_min": 1400.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1800.0,
@@ -10362,6 +10381,25 @@
           "listed_date": "2 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Millerz Square",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-10T02:45:41.316972",
+          "url": "https://www.edgeprop.my/listing/rental/3911557/millerz-square-for-rent-by-kelly-hu",
+          "title": "Millerz Square",
+          "price_text": "RM 2,900",
+          "price": 2900.0,
+          "price_psf": 4.32,
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "size_sqft": 672.0,
+          "listed_date": "2 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -10378,11 +10416,11 @@
         "rent_price_min": 1800.0,
         "rent_price_max": 3500.0,
         "rent_price_median": 2950.0,
-        "rent_price_avg": 2758.7,
-        "total_rent_listings": 23,
+        "rent_price_avg": 2764.58,
+        "total_rent_listings": 24,
         "rent_psf_min": 3.44,
         "rent_psf_max": 5.71,
-        "rent_psf_median": 4.24,
+        "rent_psf_median": 4.32,
         "rent_psf_avg": 4.32,
         "estimated_yield": 5.26
       }
@@ -11050,6 +11088,23 @@
           "listed_date": "18 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "D'Ivo Residences",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-10T02:45:42.856117",
+          "url": "https://www.edgeprop.my/listing/room_rental/3910459/d-ivo-residences-for-rent-by-iceson-lim",
+          "title": "D'ivo Residences",
+          "price_text": "RM 900",
+          "price": 900.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "listed_date": "20 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -11065,18 +11120,60 @@
         "sale_psf_avg": 670.31,
         "rent_price_min": 800.0,
         "rent_price_max": 3600.0,
-        "rent_price_median": 2200.0,
-        "rent_price_avg": 2013.89,
-        "total_rent_listings": 18,
+        "rent_price_median": 1300.0,
+        "rent_price_avg": 1955.26,
+        "total_rent_listings": 19,
         "rent_psf_min": 1.07,
         "rent_psf_max": 5.75,
         "rent_psf_median": 3.23,
         "rent_psf_avg": 3.09,
-        "estimated_yield": 3.83
+        "estimated_yield": 2.26
       }
     }
   },
   "regions": {
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 218,
+      "total_rent_listings": 106,
+      "total_transactions": 17,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 410000.0,
+        "sale_price_avg": 598670.22,
+        "total_sale_listings": 218,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 7200.0,
+        "sale_psf_median": 473.68,
+        "sale_psf_avg": 575.18,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2000.0,
+        "rent_price_avg": 2186.53,
+        "total_rent_listings": 104,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.57,
+        "rent_psf_avg": 2.9,
+        "estimated_yield": 5.85,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1330000.0,
+        "txn_price_median": 738000.0,
+        "total_transactions": 17,
+        "txn_psf_median": 475.0,
+        "txn_psf_avg": 521.65
+      }
+    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -11113,48 +11210,6 @@
         "total_transactions": 12,
         "txn_psf_median": 455.0,
         "txn_psf_avg": 457.67
-      }
-    },
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 217,
-      "total_rent_listings": 104,
-      "total_transactions": 17,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 410000.0,
-        "sale_price_avg": 599562.71,
-        "total_sale_listings": 217,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 7200.0,
-        "sale_psf_median": 473.68,
-        "sale_psf_avg": 576.49,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2000.0,
-        "rent_price_avg": 2192.15,
-        "total_rent_listings": 102,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.57,
-        "rent_psf_avg": 2.88,
-        "estimated_yield": 5.85,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1330000.0,
-        "txn_price_median": 738000.0,
-        "total_transactions": 17,
-        "txn_psf_median": 475.0,
-        "txn_psf_avg": 521.65
       }
     }
   },
@@ -11195,7 +11250,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-09T02:37:15.622062",
+      "scraped_at": "2026-04-10T02:49:22.095112",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -11203,7 +11258,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-09T02:37:18.120517",
+      "scraped_at": "2026-04-10T02:49:24.481763",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -11212,21 +11267,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-09T02:37:25.620218"
+      "scraped_at": "2026-04-10T02:49:31.199166"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-09T02:37:31.804391"
+      "scraped_at": "2026-04-10T02:49:36.750271"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-09T02:37:31.804460"
+      "scraped_at": "2026-04-10T02:49:36.750334"
     }
   ],
   "news": [],
@@ -11236,7 +11291,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-09T02:34:02.845494",
+      "scraped_at": "2026-04-10T02:45:51.723951",
       "transactions": []
     }
   ]

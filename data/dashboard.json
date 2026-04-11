@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T02:49:36.769503",
+  "last_updated": "2026-04-11T02:34:07.249113",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -6227,6 +6227,82 @@
           "listed_date": "12 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-11T02:29:27.154952",
+          "url": "https://www.edgeprop.my/listing/sale/3004247/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale-oug-parklane-condo-with-2-parking-lot-freehold---old-klang-road-jalan-puchong",
+          "title": "OUG Parklane",
+          "price_text": "RM 390,000",
+          "price": 390000.0,
+          "price_psf": 410.53,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "10 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-11T02:29:27.155002",
+          "url": "https://www.edgeprop.my/listing/sale/3022822/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale---oug-parklane-condo---klang-lama--old-klang-road--kl",
+          "title": "OUG Parklane",
+          "price_text": "RM 450,000",
+          "price": 450000.0,
+          "price_psf": 473.68,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "10 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-11T02:29:27.155046",
+          "url": "https://www.edgeprop.my/listing/sale/3016110/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale-oug-parklane-condo-fully-furnished-old-klang-road-full-loan",
+          "title": "OUG Parklane",
+          "price_text": "RM 355,000",
+          "price": 355000.0,
+          "price_psf": 373.68,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "10 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
+        },
+        {
+          "property": "OUG Parklane",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-11T02:29:27.155089",
+          "url": "https://www.edgeprop.my/listing/sale/3004503/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/sale-oug-parklane-condo-2-parking-lot-fully-furnished-old-klang-road",
+          "title": "OUG Parklane",
+          "price_text": "RM 355,000",
+          "price": 355000.0,
+          "price_psf": 373.68,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 950.0,
+          "listed_date": "10 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "rent_listings": [
@@ -6844,12 +6920,12 @@
         "sale_price_min": 233300.0,
         "sale_price_max": 1500000.0,
         "sale_price_median": 360000.0,
-        "sale_price_avg": 365658.92,
-        "total_sale_listings": 84,
+        "sale_price_avg": 366651.69,
+        "total_sale_listings": 88,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
         "sale_psf_median": 378.95,
-        "sale_psf_avg": 451.06,
+        "sale_psf_avg": 449.1,
         "rent_price_min": 500.0,
         "rent_price_max": 2500.0,
         "rent_price_median": 1700.0,
@@ -11143,19 +11219,19 @@
         "Millerz Square",
         "D'Ivo Residences"
       ],
-      "total_sale_listings": 218,
+      "total_sale_listings": 222,
       "total_rent_listings": 106,
       "total_transactions": 17,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
-        "sale_price_median": 410000.0,
-        "sale_price_avg": 598670.22,
-        "total_sale_listings": 218,
+        "sale_price_median": 405000.0,
+        "sale_price_avg": 594865.36,
+        "total_sale_listings": 222,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
         "sale_psf_median": 473.68,
-        "sale_psf_avg": 575.18,
+        "sale_psf_avg": 572.17,
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
@@ -11165,7 +11241,7 @@
         "rent_psf_max": 5.75,
         "rent_psf_median": 2.57,
         "rent_psf_avg": 2.9,
-        "estimated_yield": 5.85,
+        "estimated_yield": 5.93,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
         "txn_price_median": 738000.0,
@@ -11250,7 +11326,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-10T02:49:22.095112",
+      "scraped_at": "2026-04-11T02:33:52.159879",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -11258,7 +11334,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-10T02:49:24.481763",
+      "scraped_at": "2026-04-11T02:33:54.838182",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -11267,21 +11343,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-10T02:49:31.199166"
+      "scraped_at": "2026-04-11T02:34:01.480994"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-10T02:49:36.750271"
+      "scraped_at": "2026-04-11T02:34:07.232321"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-10T02:49:36.750334"
+      "scraped_at": "2026-04-11T02:34:07.232382"
     }
   ],
   "news": [],
@@ -11291,7 +11367,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-10T02:45:51.723951",
+      "scraped_at": "2026-04-11T02:30:40.104113",
       "transactions": []
     }
   ]

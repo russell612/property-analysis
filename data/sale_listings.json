@@ -6993,5 +6993,24 @@
     "listed_date": "10 hours ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Verve Suites KL South",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-12T02:48:14.472442",
+    "url": "https://www.edgeprop.my/listing/sale/2576894/kuala_lumpur/jalan_klang_lama_(old_klang_road)/nonlanded/condominium-apartment-servicedresidence/verve-suites-old-klang-road",
+    "title": "VERVE Suites KL South",
+    "price_text": "RM 370,000",
+    "price": 370000.0,
+    "price_psf": 505.46,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size_sqft": 732.0,
+    "listed_date": "an hour ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

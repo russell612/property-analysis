@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T02:52:12.780174",
+  "last_updated": "2026-04-13T02:57:15.540581",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -1867,6 +1867,25 @@
           "listed_date": "a day ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Scenaria @ North Kiara Hills",
+          "region": "Bamboo Hills",
+          "area": "Segambut",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-13T02:53:22.151068",
+          "url": "https://www.edgeprop.my/listing/rental/3915980/scenaria-laman-scenaria-kiara-for-rent-by-cs-ow",
+          "title": "FEATURED",
+          "price_text": "RM 2,099",
+          "price": 2099.0,
+          "price_psf": 1.66,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 1262.0,
+          "listed_date": "20 hours ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -1883,12 +1902,12 @@
         "rent_price_min": 1700.0,
         "rent_price_max": 2900.0,
         "rent_price_median": 2300.0,
-        "rent_price_avg": 2354.18,
-        "total_rent_listings": 22,
+        "rent_price_avg": 2343.09,
+        "total_rent_listings": 23,
         "rent_psf_min": 1.6,
         "rent_psf_max": 2.45,
         "rent_psf_median": 2.0,
-        "rent_psf_avg": 1.98,
+        "rent_psf_avg": 1.96,
         "estimated_yield": 4.06
       }
     },
@@ -10514,6 +10533,25 @@
           "listed_date": "2 hours ago",
           "is_target": false,
           "price_tier": "mid"
+        },
+        {
+          "property": "Millerz Square",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "rent",
+          "source": "edgeprop",
+          "scraped_at": "2026-04-13T02:53:37.330883",
+          "url": "https://www.edgeprop.my/listing/rental/3916810/millerz-square-for-rent-by-kho-chng-guan",
+          "title": "Millerz Square",
+          "price_text": "RM 3,000",
+          "price": 3000.0,
+          "price_psf": 3.31,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "size_sqft": 907.0,
+          "listed_date": "36 minutes ago",
+          "is_target": false,
+          "price_tier": "mid"
         }
       ],
       "transactions": [],
@@ -10530,12 +10568,12 @@
         "rent_price_min": 1800.0,
         "rent_price_max": 3500.0,
         "rent_price_median": 2950.0,
-        "rent_price_avg": 2764.58,
-        "total_rent_listings": 24,
-        "rent_psf_min": 3.44,
+        "rent_price_avg": 2774.0,
+        "total_rent_listings": 25,
+        "rent_psf_min": 3.31,
         "rent_psf_max": 5.71,
-        "rent_psf_median": 4.32,
-        "rent_psf_avg": 4.32,
+        "rent_psf_median": 4.24,
+        "rent_psf_avg": 4.28,
         "estimated_yield": 5.26
       }
     },
@@ -11254,7 +11292,7 @@
         "Tuan Residency"
       ],
       "total_sale_listings": 148,
-      "total_rent_listings": 82,
+      "total_rent_listings": 83,
       "total_transactions": 12,
       "stats": {
         "sale_price_min": 333000.0,
@@ -11269,12 +11307,12 @@
         "rent_price_min": 1650.0,
         "rent_price_max": 3200.0,
         "rent_price_median": 2299.0,
-        "rent_price_avg": 2244.09,
-        "total_rent_listings": 80,
+        "rent_price_avg": 2242.3,
+        "total_rent_listings": 81,
         "rent_psf_min": 1.6,
         "rent_psf_max": 3.34,
-        "rent_psf_median": 2.23,
-        "rent_psf_avg": 2.24,
+        "rent_psf_median": 2.19,
+        "rent_psf_avg": 2.23,
         "estimated_yield": 4.6,
         "txn_price_min": 183500.0,
         "txn_price_max": 1270000.0,
@@ -11296,7 +11334,7 @@
         "D'Ivo Residences"
       ],
       "total_sale_listings": 223,
-      "total_rent_listings": 107,
+      "total_rent_listings": 108,
       "total_transactions": 17,
       "stats": {
         "sale_price_min": 216000.0,
@@ -11311,8 +11349,8 @@
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
-        "rent_price_avg": 2179.99,
-        "total_rent_listings": 105,
+        "rent_price_avg": 2187.73,
+        "total_rent_listings": 106,
         "rent_psf_min": 1.07,
         "rent_psf_max": 5.75,
         "rent_psf_median": 2.57,
@@ -11364,7 +11402,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-12T02:51:57.238555",
+      "scraped_at": "2026-04-13T02:56:59.116774",
       "total_transactions": 191,
       "total_projects": 39
     },
@@ -11372,7 +11410,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-04-12T02:51:59.352747",
+      "scraped_at": "2026-04-13T02:57:02.308396",
       "total_transactions": 412,
       "total_projects": 80
     },
@@ -11381,21 +11419,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-12T02:52:06.462214"
+      "scraped_at": "2026-04-13T02:57:09.260477"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-12T02:52:12.761435"
+      "scraped_at": "2026-04-13T02:57:15.521862"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-12T02:52:12.761512"
+      "scraped_at": "2026-04-13T02:57:15.521926"
     }
   ],
   "news": [],
@@ -11405,7 +11443,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-12T02:48:48.850280",
+      "scraped_at": "2026-04-13T02:53:45.811183",
       "transactions": []
     }
   ]

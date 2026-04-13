@@ -3561,5 +3561,43 @@
     "listed_date": "an hour ago",
     "is_target": false,
     "price_tier": "mid"
+  },
+  {
+    "property": "Scenaria @ North Kiara Hills",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-13T02:53:22.151068",
+    "url": "https://www.edgeprop.my/listing/rental/3915980/scenaria-laman-scenaria-kiara-for-rent-by-cs-ow",
+    "title": "FEATURED",
+    "price_text": "RM 2,099",
+    "price": 2099.0,
+    "price_psf": 1.66,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1262.0,
+    "listed_date": "20 hours ago",
+    "is_target": false,
+    "price_tier": "mid"
+  },
+  {
+    "property": "Millerz Square",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "rent",
+    "source": "edgeprop",
+    "scraped_at": "2026-04-13T02:53:37.330883",
+    "url": "https://www.edgeprop.my/listing/rental/3916810/millerz-square-for-rent-by-kho-chng-guan",
+    "title": "Millerz Square",
+    "price_text": "RM 3,000",
+    "price": 3000.0,
+    "price_psf": 3.31,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 907.0,
+    "listed_date": "36 minutes ago",
+    "is_target": false,
+    "price_tier": "mid"
   }
 ]

@@ -1,0 +1,289 @@
+{
+  "sale": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-04-18T02:37:47.993855"
+    }
+  ],
+  "rent": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-04-18T02:38:14.973223"
+    }
+  ],
+  "transactions": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.149418",
+      "property": "TAMAN SRI SINAR",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 663.0,
+      "price": 430000.0,
+      "price_text": "430,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.149583",
+      "property": "NOVA 1",
+      "unit_type": "APARTMENT",
+      "price_psf": 565.0,
+      "price": 420000.0,
+      "price_text": "420,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.149731",
+      "property": "KEPONG BARU",
+      "unit_type": "SEMI-D,TERRACE HOUSE",
+      "price_psf": 455.0,
+      "price": 730000.0,
+      "price_text": "730,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.149864",
+      "property": "SCENARIA @ NORTH KIARA HILLS",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 541.0,
+      "price": 670000.0,
+      "price_text": "670,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.149996",
+      "property": "VILLA ORKID",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 385.0,
+      "price": 710000.0,
+      "price_text": "710,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.150146",
+      "property": "ANJALI NORTH KIARA",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 621.0,
+      "price": 1270000.0,
+      "price_text": "1,270,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.150279",
+      "property": "PRIMA PELANGI",
+      "unit_type": "APARTMENT",
+      "price_psf": 316.0,
+      "price": 345000.0,
+      "price_text": "345,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.150407",
+      "property": "TAMAN PUSAT KEPONG",
+      "unit_type": "FLAT",
+      "price_psf": 217.0,
+      "price": 183500.0,
+      "price_text": "183,500"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.150537",
+      "property": "NOVA 2",
+      "unit_type": "APARTMENT",
+      "price_psf": 372.0,
+      "price": 330000.0,
+      "price_text": "330,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:19.150666",
+      "property": "PLAZA SINAR",
+      "unit_type": "APARTMENT",
+      "price_psf": 349.0,
+      "price": 280000.0,
+      "price_text": "280,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-04-18T02:40:19.151088",
+      "total_transactions": 191,
+      "total_projects": 39
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.635519",
+      "property": "OVERSEAS UNION GARDEN",
+      "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+      "price_psf": 525.0,
+      "price": 910000.0,
+      "price_text": "910,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.635676",
+      "property": "HAPPY GARDEN",
+      "unit_type": ", LEASEHOLDSEMI-D,TERRACE HOUSE",
+      "price_psf": 428.0,
+      "price": 730000.0,
+      "price_text": "730,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.635807",
+      "property": "RESIDENSI WALTZ",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 783.0,
+      "price": 1323960.0,
+      "price_text": "1,323,960"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.635937",
+      "property": "TAMAN SRI SENTOSA",
+      "unit_type": "FLAT",
+      "price_psf": 246.0,
+      "price": 145000.0,
+      "price_text": "145,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636083",
+      "property": "THE LEGACY OUG",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 733.0,
+      "price": 822800.0,
+      "price_text": "822,800"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636218",
+      "property": "THE SCOTT GARDEN",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 458.0,
+      "price": 440000.0,
+      "price_text": "440,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636347",
+      "property": "OUG PARKLANE",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 475.0,
+      "price": 455000.0,
+      "price_text": "455,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636475",
+      "property": "TIARA MUTIARA / THE CROWN",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 464.0,
+      "price": 385000.0,
+      "price_text": "385,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636601",
+      "property": "SERINGIN RESIDENCES",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 625.0,
+      "price": 1323000.0,
+      "price_text": "1,323,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-04-18T02:40:22.636729",
+      "property": "HAPPY GARDEN FLAT",
+      "unit_type": "FLAT",
+      "price_psf": 287.0,
+      "price": 208000.0,
+      "price_text": "208,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-04-18T02:40:22.637176",
+      "total_transactions": 412,
+      "total_projects": 80
+    }
+  ],
+  "market": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-04-18T02:40:25.490940",
+      "total_transactions": 191,
+      "total_projects": 39
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-04-18T02:40:27.817416",
+      "total_transactions": 412,
+      "total_projects": 80
+    },
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-04-18T02:40:34.322756"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-04-18T02:40:40.126361"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-04-18T02:40:40.126426"
+    }
+  ],
+  "news": [],
+  "details": [
+    {
+      "property": "Scenaria @ North Kiara Hills",
+      "region": "Bamboo Hills",
+      "source": "edgeprop",
+      "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
+      "scraped_at": "2026-04-18T02:37:14.469715",
+      "transactions": []
+    }
+  ],
+  "errors": []
+}

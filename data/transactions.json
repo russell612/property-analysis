@@ -295,5 +295,115 @@
     "price_psf": 625.0,
     "price": 1323000.0,
     "price_text": "1,323,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843012",
+    "property": "TAMAN SRI SINAR",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 663.0,
+    "price": 475000.0,
+    "price_text": "475,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843323",
+    "property": "SCENARIA @ NORTH KIARA HILLS",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 541.0,
+    "price": 665000.0,
+    "price_text": "665,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843454",
+    "property": "KEPONG BARU",
+    "unit_type": "SEMI-D,TERRACE HOUSE",
+    "price_psf": 455.0,
+    "price": 734000.0,
+    "price_text": "734,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843579",
+    "property": "PRIMA PELANGI",
+    "unit_type": "APARTMENT",
+    "price_psf": 306.0,
+    "price": 320000.0,
+    "price_text": "320,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843705",
+    "property": "VILLA ORKID",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 377.0,
+    "price": 705000.0,
+    "price_text": "705,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.843949",
+    "property": "NOVA 2",
+    "unit_type": "APARTMENT",
+    "price_psf": 371.0,
+    "price": 325000.0,
+    "price_text": "325,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:45.844205",
+    "property": "MANDY VILLA",
+    "unit_type": "APARTMENT",
+    "price_psf": 356.0,
+    "price": 360000.0,
+    "price_text": "360,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:48.176746",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 525.0,
+    "price": 915000.0,
+    "price_text": "915,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:48.177028",
+    "property": "RESIDENSI WALTZ",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 786.0,
+    "price": 1325280.0,
+    "price_text": "1,325,280"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:48.177628",
+    "property": "SERINGIN RESIDENCES",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 620.0,
+    "price": 1301500.0,
+    "price_text": "1,301,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-04-21T02:50:48.177865",
+    "property": "GEMBIRA RESIDEN",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 552.0,
+    "price": 642000.0,
+    "price_text": "642,000"
   }
 ]

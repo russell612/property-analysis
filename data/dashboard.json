@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T02:59:06.579252",
+  "last_updated": "2026-04-21T02:51:04.769571",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -11487,7 +11487,7 @@
       ],
       "total_sale_listings": 227,
       "total_rent_listings": 111,
-      "total_transactions": 17,
+      "total_transactions": 21,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
@@ -11510,10 +11510,10 @@
         "estimated_yield": 6.0,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
-        "txn_price_median": 738000.0,
-        "total_transactions": 17,
-        "txn_psf_median": 475.0,
-        "txn_psf_avg": 521.65
+        "txn_price_median": 822800.0,
+        "total_transactions": 21,
+        "txn_psf_median": 525.0,
+        "txn_psf_avg": 540.52
       }
     },
     "Bamboo Hills": {
@@ -11525,7 +11525,7 @@
       ],
       "total_sale_listings": 149,
       "total_rent_listings": 85,
-      "total_transactions": 12,
+      "total_transactions": 19,
       "stats": {
         "sale_price_min": 333000.0,
         "sale_price_max": 850000.0,
@@ -11549,9 +11549,9 @@
         "txn_price_min": 183500.0,
         "txn_price_max": 1270000.0,
         "txn_price_median": 430000.0,
-        "total_transactions": 12,
-        "txn_psf_median": 455.0,
-        "txn_psf_avg": 457.67
+        "total_transactions": 19,
+        "txn_psf_median": 385.0,
+        "txn_psf_avg": 450.58
       }
     }
   },
@@ -11589,25 +11589,33 @@
   ],
   "market_overview": [
     {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-04-21T02:50:50.841004",
+      "total_transactions": 172,
+      "total_projects": 38
+    },
+    {
       "title": "Property Market",
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-04-20T02:59:00.736567"
+      "scraped_at": "2026-04-21T02:50:58.621424"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-20T02:59:06.559276"
+      "scraped_at": "2026-04-21T02:51:04.749638"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-04-20T02:59:06.559352"
+      "scraped_at": "2026-04-21T02:51:04.749708"
     }
   ],
   "news": [],
@@ -11617,7 +11625,7 @@
       "region": "Bamboo Hills",
       "source": "edgeprop",
       "url": "https://www.edgeprop.my/condo/scenaria-(laman-scenaria-kiara)-11323",
-      "scraped_at": "2026-04-20T02:54:23.148730",
+      "scraped_at": "2026-04-21T02:47:36.655091",
       "transactions": []
     }
   ]

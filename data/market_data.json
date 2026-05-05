@@ -3,8 +3,16 @@
     "region": "Bamboo Hills / Segambut",
     "source": "brickz",
     "type": "area_summary",
-    "scraped_at": "2026-05-04T03:30:00.935106",
+    "scraped_at": "2026-05-05T02:57:40.354127",
     "total_transactions": 172,
     "total_projects": 38
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "type": "area_summary",
+    "scraped_at": "2026-05-05T02:57:43.138295",
+    "total_transactions": 441,
+    "total_projects": 81
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T03:27:06.271430",
+  "last_updated": "2026-05-07T03:28:18.541076",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -11592,7 +11592,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-05-06T03:26:53.563656",
+      "scraped_at": "2026-05-07T03:28:05.866800",
       "total_transactions": 172,
       "total_projects": 38
     },
@@ -11600,7 +11600,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-05-06T03:26:55.769430",
+      "scraped_at": "2026-05-07T03:28:08.133625",
       "total_transactions": 441,
       "total_projects": 81
     }

@@ -405,5 +405,55 @@
     "price_psf": 552.0,
     "price": 642000.0,
     "price_text": "642,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-05-13T03:40:43.181247",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 525.0,
+    "price": 930000.0,
+    "price_text": "930,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-05-13T03:40:43.181399",
+    "property": "HAPPY GARDEN",
+    "unit_type": ", LEASEHOLDSEMI-D,TERRACE HOUSE",
+    "price_psf": 448.0,
+    "price": 744000.0,
+    "price_text": "744,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-05-13T03:40:43.181912",
+    "property": "THE SCOTT GARDEN",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 452.0,
+    "price": 437500.0,
+    "price_text": "437,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-05-13T03:40:43.182151",
+    "property": "TIARA MUTIARA / THE CROWN",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 464.0,
+    "price": 370000.0,
+    "price_text": "370,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-05-13T03:40:43.182268",
+    "property": "LE YUAN RESIDENCE",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 503.0,
+    "price": 788000.0,
+    "price_text": "788,000"
   }
 ]

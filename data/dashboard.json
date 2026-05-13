@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T03:33:17.898473",
+  "last_updated": "2026-05-13T03:41:01.693517",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -11474,48 +11474,6 @@
     }
   },
   "regions": {
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 227,
-      "total_rent_listings": 111,
-      "total_transactions": 21,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 400000.0,
-        "sale_price_avg": 589840.83,
-        "total_sale_listings": 227,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 7200.0,
-        "sale_psf_median": 472.63,
-        "sale_psf_avg": 569.78,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2000.0,
-        "rent_price_avg": 2215.13,
-        "total_rent_listings": 109,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.63,
-        "rent_psf_avg": 2.9,
-        "estimated_yield": 6.0,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1330000.0,
-        "txn_price_median": 822800.0,
-        "total_transactions": 21,
-        "txn_psf_median": 525.0,
-        "txn_psf_avg": 540.52
-      }
-    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -11552,6 +11510,48 @@
         "total_transactions": 19,
         "txn_psf_median": 385.0,
         "txn_psf_avg": 450.58
+      }
+    },
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 227,
+      "total_rent_listings": 111,
+      "total_transactions": 26,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 400000.0,
+        "sale_price_avg": 589840.83,
+        "total_sale_listings": 227,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 7200.0,
+        "sale_psf_median": 472.63,
+        "sale_psf_avg": 569.78,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2000.0,
+        "rent_price_avg": 2215.13,
+        "total_rent_listings": 109,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.63,
+        "rent_psf_avg": 2.9,
+        "estimated_yield": 6.0,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1330000.0,
+        "txn_price_median": 788000.0,
+        "total_transactions": 26,
+        "txn_psf_median": 521.0,
+        "txn_psf_avg": 528.58
       }
     }
   },
@@ -11592,7 +11592,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-05-12T03:33:02.060267",
+      "scraped_at": "2026-05-13T03:40:45.569391",
       "total_transactions": 172,
       "total_projects": 38
     },
@@ -11600,8 +11600,8 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-05-12T03:33:05.132373",
-      "total_transactions": 441,
+      "scraped_at": "2026-05-13T03:40:48.582822",
+      "total_transactions": 475,
       "total_projects": 81
     },
     {
@@ -11609,21 +11609,21 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-05-12T03:33:11.874057"
+      "scraped_at": "2026-05-13T03:40:55.665943"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q3 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q3 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-05-12T03:33:17.883079"
+      "scraped_at": "2026-05-13T03:41:01.674079"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2025/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2025.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-05-12T03:33:17.883130"
+      "scraped_at": "2026-05-13T03:41:01.674142"
     }
   ],
   "news": [],

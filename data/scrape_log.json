@@ -1,14 +1,5 @@
 [
   {
-    "timestamp": "2026-03-07T13:48:30.203333",
-    "sale_listings_scraped": 0,
-    "rent_listings_scraped": 0,
-    "transactions_scraped": 22,
-    "market_data_entries": 5,
-    "news_articles": 0,
-    "errors": []
-  },
-  {
     "timestamp": "2026-03-07T14:01:01.548580",
     "sale": 2,
     "rent": 2,
@@ -806,6 +797,15 @@
     "rent": 1,
     "transactions": 11,
     "market": 4,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-05-28T03:53:18.877901",
+    "sale": 0,
+    "rent": 1,
+    "transactions": 22,
+    "market": 3,
     "news": 0,
     "errors": 0
   }

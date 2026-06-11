@@ -1,0 +1,157 @@
+{
+  "sale": [],
+  "rent": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-06-11T04:10:21.801217"
+    }
+  ],
+  "transactions": [
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.677588",
+      "property": "OVERSEAS UNION GARDEN",
+      "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+      "price_psf": 528.0,
+      "price": 927500.0,
+      "price_text": "927,500"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.677755",
+      "property": "HAPPY GARDEN",
+      "unit_type": ", LEASEHOLDSEMI-D,TERRACE HOUSE",
+      "price_psf": 461.0,
+      "price": 750000.0,
+      "price_text": "750,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.677886",
+      "property": "RESIDENSI WALTZ",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 785.0,
+      "price": 1323960.0,
+      "price_text": "1,323,960"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678009",
+      "property": "TAMAN SRI SENTOSA",
+      "unit_type": "FLAT",
+      "price_psf": 242.0,
+      "price": 164500.0,
+      "price_text": "164,500"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678150",
+      "property": "THE LEGACY OUG",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 730.0,
+      "price": 823800.0,
+      "price_text": "823,800"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678275",
+      "property": "THE SCOTT GARDEN",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 445.0,
+      "price": 437500.0,
+      "price_text": "437,500"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678395",
+      "property": "LE YUAN RESIDENCE",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 503.0,
+      "price": 788000.0,
+      "price_text": "788,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678512",
+      "property": "TIARA MUTIARA / THE CROWN",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 488.0,
+      "price": 385000.0,
+      "price_text": "385,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678628",
+      "property": "SERINGIN RESIDENCES",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 614.0,
+      "price": 1280000.0,
+      "price_text": "1,280,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-06-11T04:12:26.678745",
+      "property": "VERVE SUITES KL SOUTH",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 906.0,
+      "price": 1145500.0,
+      "price_text": "1,145,500"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-06-11T04:12:26.679168",
+      "total_transactions": 386,
+      "total_projects": 72
+    }
+  ],
+  "market": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-06-11T04:12:29.423639",
+      "total_transactions": 165,
+      "total_projects": 37
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-06-11T04:12:31.902420",
+      "total_transactions": 386,
+      "total_projects": 72
+    },
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-06-11T04:12:38.886527"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-06-11T04:12:44.778737"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

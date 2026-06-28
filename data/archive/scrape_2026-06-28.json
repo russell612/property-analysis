@@ -1,0 +1,25 @@
+{
+  "sale": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-06-28T04:01:36.871269"
+    }
+  ],
+  "rent": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-06-28T04:02:05.745633"
+    }
+  ],
+  "transactions": [],
+  "market": [],
+  "news": [],
+  "details": [],
+  "errors": []
+}

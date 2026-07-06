@@ -1,0 +1,165 @@
+{
+  "sale": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-07-06T03:43:39.226551"
+    }
+  ],
+  "rent": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-07-06T03:44:01.087708"
+    }
+  ],
+  "transactions": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.155613",
+      "property": "THE ERA @ DUTA NORTH",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 797.0,
+      "price": 814770.0,
+      "price_text": "814,770"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.155785",
+      "property": "TAMAN SRI SINAR",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 663.0,
+      "price": 470000.0,
+      "price_text": "470,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.155943",
+      "property": "NOVA 1",
+      "unit_type": "APARTMENT",
+      "price_psf": 565.0,
+      "price": 420000.0,
+      "price_text": "420,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156086",
+      "property": "SCENARIA @ NORTH KIARA HILLS",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 533.0,
+      "price": 660000.0,
+      "price_text": "660,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156233",
+      "property": "KEPONG BARU",
+      "unit_type": "SEMI-D,TERRACE HOUSE",
+      "price_psf": 455.0,
+      "price": 738000.0,
+      "price_text": "738,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156370",
+      "property": "ANJALI NORTH KIARA",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 637.0,
+      "price": 1159000.0,
+      "price_text": "1,159,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156505",
+      "property": "MANDY VILLA",
+      "unit_type": "APARTMENT",
+      "price_psf": 346.0,
+      "price": 350000.0,
+      "price_text": "350,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156638",
+      "property": "TAMAN PUSAT KEPONG",
+      "unit_type": "FLAT",
+      "price_psf": 233.0,
+      "price": 218000.0,
+      "price_text": "218,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156771",
+      "property": "VILLA ORKID",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 377.0,
+      "price": 710000.0,
+      "price_text": "710,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-07-06T03:46:05.156903",
+      "property": "NOVA 2",
+      "unit_type": "APARTMENT",
+      "price_psf": 371.0,
+      "price": 325000.0,
+      "price_text": "325,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-07-06T03:46:05.157358",
+      "total_transactions": 223,
+      "total_projects": 42
+    }
+  ],
+  "market": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-07-06T03:46:08.304521",
+      "total_transactions": 223,
+      "total_projects": 42
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-07-06T03:46:11.040725",
+      "total_transactions": 514,
+      "total_projects": 81
+    },
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-07-06T03:46:17.284207"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-07-06T03:46:26.926858"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

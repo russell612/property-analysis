@@ -1,16 +1,24 @@
 [
   {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "type": "area_summary",
+    "scraped_at": "2026-07-16T02:46:52.720524",
+    "total_transactions": 223,
+    "total_projects": 42
+  },
+  {
     "title": "Property Market",
     "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
     "type": "publication",
     "source": "napic",
-    "scraped_at": "2026-07-15T02:38:55.946244"
+    "scraped_at": "2026-07-16T02:46:59.822057"
   },
   {
     "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
     "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
     "type": "transaction_data_file",
     "source": "napic",
-    "scraped_at": "2026-07-15T02:39:02.380534"
+    "scraped_at": "2026-07-16T02:47:05.606007"
   }
 ]

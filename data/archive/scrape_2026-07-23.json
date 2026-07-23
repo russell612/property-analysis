@@ -1,0 +1,32 @@
+{
+  "sale": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-07-23T02:53:02.079964"
+    }
+  ],
+  "rent": [],
+  "transactions": [],
+  "market": [
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-07-23T02:55:36.186636"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-07-23T02:55:42.871322"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

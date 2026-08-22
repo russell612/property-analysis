@@ -695,5 +695,155 @@
     "price_psf": 847.0,
     "price": 1067500.0,
     "price_text": "1,067,500"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283147",
+    "property": "THE ERA @ DUTA NORTH",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 796.0,
+    "price": 810180.0,
+    "price_text": "810,180"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283274",
+    "property": "TAMAN SRI SINAR",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 637.0,
+    "price": 419000.0,
+    "price_text": "419,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283482",
+    "property": "SCENARIA @ NORTH KIARA HILLS",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 532.0,
+    "price": 650000.0,
+    "price_text": "650,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283581",
+    "property": "KEPONG BARU",
+    "unit_type": "SEMI-D,TERRACE HOUSE",
+    "price_psf": 448.0,
+    "price": 715000.0,
+    "price_text": "715,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283674",
+    "property": "ANJALI NORTH KIARA",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 640.0,
+    "price": 1115000.0,
+    "price_text": "1,115,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.283944",
+    "property": "TAMAN SRI",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 464.0,
+    "price": 685000.0,
+    "price_text": "685,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:28.284037",
+    "property": "TAMAN PUSAT KEPONG",
+    "unit_type": "FLAT",
+    "price_psf": 225.0,
+    "price": 201500.0,
+    "price_text": "201,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476182",
+    "property": "OUG PARKLANE",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 404.0,
+    "price": 395000.0,
+    "price_text": "395,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476302",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 517.0,
+    "price": 955000.0,
+    "price_text": "955,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476506",
+    "property": "RESIDENSI WALTZ",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 783.0,
+    "price": 1316920.0,
+    "price_text": "1,316,920"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476598",
+    "property": "LE YUAN RESIDENCE",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 494.0,
+    "price": 830000.0,
+    "price_text": "830,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476690",
+    "property": "MEADOW PARK 2",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 362.0,
+    "price": 333000.0,
+    "price_text": "333,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476782",
+    "property": "THE LEGACY OUG",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 718.0,
+    "price": 870000.0,
+    "price_text": "870,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.476961",
+    "property": "TIARA MUTIARA / THE CROWN",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 452.0,
+    "price": 384000.0,
+    "price_text": "384,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-22T01:19:30.477051",
+    "property": "VERVE SUITES KL SOUTH",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 845.0,
+    "price": 1005000.0,
+    "price_text": "1,005,000"
   }
 ]

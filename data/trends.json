@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:25:04.805857",
+  "generated_at": "2026-08-22T01:19:48.677490",
   "properties": {
     "Bamboo Hills Residences": {
       "region": "Bamboo Hills",
@@ -14,13 +14,34 @@
           "sale_count": 4,
           "sale_price_avg": 539000.0,
           "sale_price_median": 638000.0
+        },
+        {
+          "month": "2026-08",
+          "sale_psf_avg": 691.55,
+          "sale_psf_median": 705.75,
+          "sale_psf_min": 659.49,
+          "sale_psf_max": 710.73,
+          "sale_count": 10,
+          "sale_price_avg": 518840.0,
+          "sale_price_median": 499500.0
         }
       ]
     },
     "GenStarz": {
       "region": "Old Klang Road",
       "is_target": true,
-      "monthly": []
+      "monthly": [
+        {
+          "month": "2026-08",
+          "sale_psf_avg": 840.85,
+          "sale_psf_median": 827.69,
+          "sale_psf_min": 562.86,
+          "sale_psf_max": 1026.46,
+          "sale_count": 13,
+          "sale_price_avg": 652692.31,
+          "sale_price_median": 610000.0
+        }
+      ]
     },
     "Scenaria @ North Kiara Hills": {
       "region": "Bamboo Hills",
@@ -634,6 +655,10 @@
           "month": "2026-04",
           "sale_psf_avg": 561.91,
           "rent_psf_avg": 3.19
+        },
+        {
+          "month": "2026-08",
+          "sale_psf_avg": 840.85
         }
       ]
     },
@@ -665,6 +690,10 @@
           "month": "2026-04",
           "sale_psf_avg": 571.2,
           "rent_psf_avg": 2.16
+        },
+        {
+          "month": "2026-08",
+          "sale_psf_avg": 691.55
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T01:24:22.295571",
+  "last_updated": "2026-08-25T01:22:12.952336",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -576,6 +576,38 @@
           "bedrooms": 3,
           "bathrooms": 2,
           "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-caroll-tai-42699811"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-08-25T01:21:19.571656",
+          "title": "Gen Starz",
+          "price_text": "RM 700,000",
+          "price": 700000.0,
+          "price_psf": 777.78,
+          "size_sqft": 900.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ivy-low-501970285"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-08-25T01:21:19.577809",
+          "title": "Gen Starz",
+          "price_text": "RM 528,000",
+          "price": 528000.0,
+          "price_psf": 660.0,
+          "size_sqft": 800.0,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ivy-low-501970248"
         }
       ],
       "rent_listings": [],
@@ -584,12 +616,12 @@
         "sale_price_min": 448000.0,
         "sale_price_max": 856000.0,
         "sale_price_median": 610000.0,
-        "sale_price_avg": 652692.31,
-        "total_sale_listings": 13,
+        "sale_price_avg": 647533.33,
+        "total_sale_listings": 15,
         "sale_psf_min": 562.86,
         "sale_psf_max": 1026.46,
-        "sale_psf_median": 827.69,
-        "sale_psf_avg": 840.85
+        "sale_psf_median": 806.88,
+        "sale_psf_avg": 824.59
       }
     },
     "Scenaria @ North Kiara Hills": {
@@ -11913,19 +11945,19 @@
         "Millerz Square",
         "D'Ivo Residences"
       ],
-      "total_sale_listings": 240,
+      "total_sale_listings": 242,
       "total_rent_listings": 111,
       "total_transactions": 48,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
-        "sale_price_median": 420000.0,
-        "sale_price_avg": 593245.29,
-        "total_sale_listings": 240,
+        "sale_price_median": 430000.0,
+        "sale_price_avg": 593416.81,
+        "total_sale_listings": 242,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
-        "sale_psf_median": 484.21,
-        "sale_psf_avg": 584.47,
+        "sale_psf_median": 487.37,
+        "sale_psf_avg": 585.58,
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
@@ -11935,7 +11967,7 @@
         "rent_psf_max": 5.75,
         "rent_psf_median": 2.63,
         "rent_psf_avg": 2.9,
-        "estimated_yield": 5.71,
+        "estimated_yield": 5.58,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
         "txn_price_median": 822800.0,
@@ -11982,7 +12014,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-24T01:24:06.486270",
+      "scraped_at": "2026-08-25T01:21:58.581314",
       "total_transactions": 199,
       "total_projects": 39
     },
@@ -11990,7 +12022,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-24T01:24:08.541889",
+      "scraped_at": "2026-08-25T01:22:00.659125",
       "total_transactions": 500,
       "total_projects": 84
     },
@@ -11999,14 +12031,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-08-24T01:24:15.332366"
+      "scraped_at": "2026-08-25T01:22:07.082072"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-08-24T01:24:22.275060"
+      "scraped_at": "2026-08-25T01:22:12.931865"
     }
   ],
   "news": [],

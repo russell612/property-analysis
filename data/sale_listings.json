@@ -7486,5 +7486,37 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-caroll-tai-42699811"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-08-25T01:21:19.571656",
+    "title": "Gen Starz",
+    "price_text": "RM 700,000",
+    "price": 700000.0,
+    "price_psf": 777.78,
+    "size_sqft": 900.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ivy-low-501970285"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-08-25T01:21:19.577809",
+    "title": "Gen Starz",
+    "price_text": "RM 528,000",
+    "price": 528000.0,
+    "price_psf": 660.0,
+    "size_sqft": 800.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ivy-low-501970248"
   }
 ]

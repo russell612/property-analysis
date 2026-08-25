@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:24:22.411930",
+  "generated_at": "2026-08-25T01:22:13.033938",
   "properties": {
     "Bamboo Hills Residences": {
       "region": "Bamboo Hills",
@@ -33,12 +33,12 @@
       "monthly": [
         {
           "month": "2026-08",
-          "sale_psf_avg": 840.85,
-          "sale_psf_median": 827.69,
+          "sale_psf_avg": 824.59,
+          "sale_psf_median": 806.88,
           "sale_psf_min": 562.86,
           "sale_psf_max": 1026.46,
-          "sale_count": 13,
-          "sale_price_avg": 652692.31,
+          "sale_count": 15,
+          "sale_price_avg": 647533.33,
           "sale_price_median": 610000.0
         }
       ]
@@ -693,7 +693,7 @@
         },
         {
           "month": "2026-08",
-          "sale_psf_avg": 840.85
+          "sale_psf_avg": 824.59
         }
       ]
     }

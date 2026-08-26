@@ -845,5 +845,75 @@
     "price_psf": 845.0,
     "price": 1005000.0,
     "price_text": "1,005,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.300375",
+    "property": "OUG PARKLANE",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 415.0,
+    "price": 397500.0,
+    "price_text": "397,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.300548",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 506.0,
+    "price": 960000.0,
+    "price_text": "960,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.300824",
+    "property": "HAPPY GARDEN",
+    "unit_type": ", LEASEHOLDSEMI-D,TERRACE HOUSE",
+    "price_psf": 466.0,
+    "price": 768000.0,
+    "price_text": "768,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.301091",
+    "property": "MEADOW PARK 2",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 374.0,
+    "price": 346000.0,
+    "price_text": "346,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.301350",
+    "property": "THE LEGACY OUG",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 699.0,
+    "price": 947900.0,
+    "price_text": "947,900"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.301477",
+    "property": "VERVE SUITES KL SOUTH",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 833.0,
+    "price": 1002500.0,
+    "price_text": "1,002,500"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-26T01:24:40.301623",
+    "property": "MILLERZ SQUARE",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 860.0,
+    "price": 720000.0,
+    "price_text": "720,000"
   }
 ]

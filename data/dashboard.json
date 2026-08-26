@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T01:22:12.952336",
+  "last_updated": "2026-08-26T01:25:02.614626",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -11947,7 +11947,7 @@
       ],
       "total_sale_listings": 242,
       "total_rent_listings": 111,
-      "total_transactions": 48,
+      "total_transactions": 55,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
@@ -11970,10 +11970,10 @@
         "estimated_yield": 5.58,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
-        "txn_price_median": 822800.0,
-        "total_transactions": 48,
-        "txn_psf_median": 517.0,
-        "txn_psf_avg": 541.85
+        "txn_price_median": 809000.0,
+        "total_transactions": 55,
+        "txn_psf_median": 506.0,
+        "txn_psf_avg": 548.4
       }
     }
   },
@@ -12014,7 +12014,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-25T01:21:58.581314",
+      "scraped_at": "2026-08-26T01:24:45.500074",
       "total_transactions": 199,
       "total_projects": 39
     },
@@ -12022,23 +12022,23 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-25T01:22:00.659125",
-      "total_transactions": 500,
-      "total_projects": 84
+      "scraped_at": "2026-08-26T01:24:50.116436",
+      "total_transactions": 447,
+      "total_projects": 83
     },
     {
       "title": "Property Market",
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-08-25T01:22:07.082072"
+      "scraped_at": "2026-08-26T01:24:56.900225"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-08-25T01:22:12.931865"
+      "scraped_at": "2026-08-26T01:25:02.592444"
     }
   ],
   "news": [],

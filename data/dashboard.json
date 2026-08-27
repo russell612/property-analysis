@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T01:25:02.614626",
+  "last_updated": "2026-08-27T08:08:47.393339",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -608,6 +608,38 @@
           "bedrooms": 2,
           "bathrooms": 2,
           "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ivy-low-501970248"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-08-27T08:06:11.811829",
+          "title": "Gen Starz",
+          "price_text": "RM 776,000",
+          "price": 776000.0,
+          "price_psf": 1026.46,
+          "size_sqft": 756.0,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-jacky-yong-501981363"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-08-27T08:06:11.820409",
+          "title": "Gen Starz",
+          "price_text": "RM 856,000",
+          "price": 856000.0,
+          "price_psf": 979.41,
+          "size_sqft": 874.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-jacky-yong-501981359"
         }
       ],
       "rent_listings": [],
@@ -615,13 +647,13 @@
       "stats": {
         "sale_price_min": 448000.0,
         "sale_price_max": 856000.0,
-        "sale_price_median": 610000.0,
-        "sale_price_avg": 647533.33,
-        "total_sale_listings": 15,
+        "sale_price_median": 700000.0,
+        "sale_price_avg": 667352.94,
+        "total_sale_listings": 17,
         "sale_psf_min": 562.86,
         "sale_psf_max": 1026.46,
-        "sale_psf_median": 806.88,
-        "sale_psf_avg": 824.59
+        "sale_psf_median": 827.69,
+        "sale_psf_avg": 845.57
       }
     },
     "Scenaria @ North Kiara Hills": {
@@ -11945,19 +11977,19 @@
         "Millerz Square",
         "D'Ivo Residences"
       ],
-      "total_sale_listings": 242,
+      "total_sale_listings": 244,
       "total_rent_listings": 111,
       "total_transactions": 55,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
         "sale_price_median": 430000.0,
-        "sale_price_avg": 593416.81,
-        "total_sale_listings": 242,
+        "sale_price_avg": 595241.27,
+        "total_sale_listings": 244,
         "sale_psf_min": 243.53,
         "sale_psf_max": 7200.0,
         "sale_psf_median": 487.37,
-        "sale_psf_avg": 585.58,
+        "sale_psf_avg": 589.0,
         "rent_price_min": 500.0,
         "rent_price_max": 4300.0,
         "rent_price_median": 2000.0,
@@ -12011,18 +12043,10 @@
   ],
   "market_overview": [
     {
-      "region": "Bamboo Hills / Segambut",
-      "source": "brickz",
-      "type": "area_summary",
-      "scraped_at": "2026-08-26T01:24:45.500074",
-      "total_transactions": 199,
-      "total_projects": 39
-    },
-    {
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-26T01:24:50.116436",
+      "scraped_at": "2026-08-27T08:08:33.743582",
       "total_transactions": 447,
       "total_projects": 83
     },
@@ -12031,14 +12055,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-08-26T01:24:56.900225"
+      "scraped_at": "2026-08-27T08:08:40.702066"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-08-26T01:25:02.592444"
+      "scraped_at": "2026-08-27T08:08:47.372683"
     }
   ],
   "news": [],

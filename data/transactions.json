@@ -915,5 +915,45 @@
     "price_psf": 860.0,
     "price": 720000.0,
     "price_text": "720,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-30T04:15:26.492362",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 522.0,
+    "price": 945000.0,
+    "price_text": "945,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-30T04:15:26.492618",
+    "property": "HAPPY GARDEN",
+    "unit_type": ", LEASEHOLDSEMI-D,TERRACE HOUSE",
+    "price_psf": 471.0,
+    "price": 800000.0,
+    "price_text": "800,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-30T04:15:26.492733",
+    "property": "MEADOW PARK 2",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 430.0,
+    "price": 398000.0,
+    "price_text": "398,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-08-30T04:15:26.493188",
+    "property": "MILLERZ SQUARE",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 877.0,
+    "price": 712340.0,
+    "price_text": "712,340"
   }
 ]

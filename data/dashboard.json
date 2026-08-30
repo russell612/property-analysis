@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T06:09:50.271787",
+  "last_updated": "2026-08-30T04:15:43.262433",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -12015,7 +12015,7 @@
       ],
       "total_sale_listings": 244,
       "total_rent_listings": 111,
-      "total_transactions": 55,
+      "total_transactions": 59,
       "stats": {
         "sale_price_min": 216000.0,
         "sale_price_max": 4500000.0,
@@ -12038,10 +12038,10 @@
         "estimated_yield": 5.58,
         "txn_price_min": 145000.0,
         "txn_price_max": 1330000.0,
-        "txn_price_median": 809000.0,
-        "total_transactions": 55,
+        "txn_price_median": 800000.0,
+        "total_transactions": 59,
         "txn_psf_median": 506.0,
-        "txn_psf_avg": 548.4
+        "txn_psf_avg": 550.2
       }
     },
     "Bamboo Hills": {
@@ -12117,18 +12117,34 @@
   ],
   "market_overview": [
     {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-08-30T04:15:28.529764",
+      "total_transactions": 199,
+      "total_projects": 39
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-08-30T04:15:30.602458",
+      "total_transactions": 480,
+      "total_projects": 86
+    },
+    {
       "title": "Property Market",
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-08-29T06:09:44.174137"
+      "scraped_at": "2026-08-30T04:15:37.378872"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-08-29T06:09:50.251449"
+      "scraped_at": "2026-08-30T04:15:43.241977"
     }
   ],
   "news": [],

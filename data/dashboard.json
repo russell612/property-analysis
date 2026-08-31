@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T04:15:43.262433",
+  "last_updated": "2026-08-31T04:21:16.169565",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -12120,7 +12120,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-30T04:15:28.529764",
+      "scraped_at": "2026-08-31T04:20:59.950114",
       "total_transactions": 199,
       "total_projects": 39
     },
@@ -12128,7 +12128,7 @@
       "region": "Old Klang Road",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-08-30T04:15:30.602458",
+      "scraped_at": "2026-08-31T04:21:02.721585",
       "total_transactions": 480,
       "total_projects": 86
     },
@@ -12137,14 +12137,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-08-30T04:15:37.378872"
+      "scraped_at": "2026-08-31T04:21:09.784563"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-08-30T04:15:43.241977"
+      "scraped_at": "2026-08-31T04:21:16.156560"
     }
   ],
   "news": [],

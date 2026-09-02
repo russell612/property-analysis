@@ -955,5 +955,35 @@
     "price_psf": 877.0,
     "price": 712340.0,
     "price_text": "712,340"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-02T03:28:04.740402",
+    "property": "TAMAN SRI SINAR",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 630.0,
+    "price": 418000.0,
+    "price_text": "418,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-02T03:28:04.740616",
+    "property": "SCENARIA @ NORTH KIARA HILLS",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 531.0,
+    "price": 640000.0,
+    "price_text": "640,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-02T03:28:04.741167",
+    "property": "GREENVIEW APARTMENT",
+    "unit_type": "APARTMENT",
+    "price_psf": 257.0,
+    "price": 200000.0,
+    "price_text": "200,000"
   }
 ]

@@ -985,5 +985,65 @@
     "price_psf": 257.0,
     "price": 200000.0,
     "price_text": "200,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:41.321093",
+    "property": "ANJALI NORTH KIARA",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 634.0,
+    "price": 1060000.0,
+    "price_text": "1,060,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:41.321193",
+    "property": "GREENVIEW APARTMENT",
+    "unit_type": "APARTMENT",
+    "price_psf": 240.0,
+    "price": 185000.0,
+    "price_text": "185,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:41.321283",
+    "property": "TAMAN SRI BINTANG",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 678.0,
+    "price": 1100000.0,
+    "price_text": "1,100,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:44.611578",
+    "property": "VERVE SUITES KL SOUTH",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 832.0,
+    "price": 875000.0,
+    "price_text": "875,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:44.611840",
+    "property": "TIARA MUTIARA / THE CROWN",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 440.0,
+    "price": 377000.0,
+    "price_text": "377,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-09-07T03:28:44.611938",
+    "property": "TAMAN YARL",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 416.0,
+    "price": 1442389.0,
+    "price_text": "1,442,389"
   }
 ]

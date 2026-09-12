@@ -3758,5 +3758,19 @@
     "bedrooms": 4,
     "bathrooms": 1,
     "url": "https://www.propertyguru.com.my/property-listing/mozart-symphony-hills-for-rent-by-daniel-wong-501826586"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "propertyguru",
+    "scraped_at": "2026-09-12T03:39:43.395582",
+    "title": "Tuan Residency",
+    "price_text": "RM 700 /mo",
+    "price": 700.0,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/tuan-residency-for-rent-by-vincent-tan-502005796"
   }
 ]

@@ -7550,5 +7550,21 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-jacky-yong-501981359"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-09-12T03:39:23.056975",
+    "title": "Gen Starz",
+    "price_text": "RM 670,000",
+    "price": 670000.0,
+    "price_psf": 766.59,
+    "size_sqft": 874.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-chia-cs-502072125"
   }
 ]

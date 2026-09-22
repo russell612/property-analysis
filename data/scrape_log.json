@@ -1,14 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24T03:50:07.757773",
-    "sale": 1,
-    "rent": 1,
-    "transactions": 0,
-    "market": 3,
-    "news": 0,
-    "errors": 0
-  },
-  {
     "timestamp": "2026-06-25T03:48:59.285098",
     "sale": 1,
     "rent": 1,
@@ -804,6 +795,15 @@
     "timestamp": "2026-09-21T03:54:38.205508",
     "sale": 25,
     "rent": 1,
+    "transactions": 11,
+    "market": 4,
+    "news": 0,
+    "errors": 0
+  },
+  {
+    "timestamp": "2026-09-22T03:51:31.986812",
+    "sale": 25,
+    "rent": 0,
     "transactions": 11,
     "market": 4,
     "news": 0,

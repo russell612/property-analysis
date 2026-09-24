@@ -1,0 +1,219 @@
+{
+  "sale": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-09-24T03:40:14.191591"
+    }
+  ],
+  "rent": [
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "source": "iproperty",
+      "type": "building_info",
+      "scraped_at": "2026-09-24T03:40:39.407620"
+    },
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "area": "Segambut",
+      "type": "rent",
+      "source": "propertyguru",
+      "scraped_at": "2026-09-24T03:41:43.902754",
+      "title": "Sofiya Residensi",
+      "price_text": "RM 2,700 /mo",
+      "price": 2700.0,
+      "price_psf": 3.13,
+      "size_sqft": 862.0,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "url": "https://www.propertyguru.com.my/property-listing/sofiya-residensi-for-rent-by-mico-wong-500877268"
+    },
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "area": "Segambut",
+      "type": "rent",
+      "source": "propertyguru",
+      "scraped_at": "2026-09-24T03:41:43.905213",
+      "title": "Tuan Residency",
+      "price_text": "RM 700 /mo",
+      "price": 700.0,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "url": "https://www.propertyguru.com.my/property-listing/tuan-residency-for-rent-by-vincent-tan-502005796"
+    },
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "area": "Segambut",
+      "type": "rent",
+      "source": "propertyguru",
+      "scraped_at": "2026-09-24T03:41:43.906177",
+      "title": "Aradia Residence @ Lake City KL North",
+      "price_text": "RM 3,200 /mo",
+      "price": 3200.0,
+      "price_psf": 2.81,
+      "size_sqft": 1140.0,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "url": "https://www.propertyguru.com.my/property-listing/aradia-residence-lake-city-kl-north-for-rent-by-mico-wong-42841129"
+    },
+    {
+      "property": "Bamboo Hills Residences",
+      "region": "Bamboo Hills",
+      "area": "Segambut",
+      "type": "rent",
+      "source": "propertyguru",
+      "scraped_at": "2026-09-24T03:41:43.906982",
+      "title": "Mozart, Symphony Hills",
+      "price_text": "RM 5,200 /mo",
+      "price": 5200.0,
+      "price_psf": 4.47,
+      "size_sqft": 3224.0,
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "url": "https://www.propertyguru.com.my/property-listing/mozart-symphony-hills-for-rent-by-daniel-wong-501826586"
+    }
+  ],
+  "transactions": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780227",
+      "property": "THE ERA @ DUTA NORTH",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 793.0,
+      "price": 810180.0,
+      "price_text": "810,180"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780364",
+      "property": "TAMAN SRI SINAR",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 628.0,
+      "price": 418000.0,
+      "price_text": "418,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780480",
+      "property": "NOVA 1",
+      "unit_type": "APARTMENT",
+      "price_psf": 565.0,
+      "price": 420000.0,
+      "price_text": "420,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780591",
+      "property": "SCENARIA @ NORTH KIARA HILLS",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 532.0,
+      "price": 650000.0,
+      "price_text": "650,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780708",
+      "property": "KEPONG BARU",
+      "unit_type": "SEMI-D,TERRACE HOUSE",
+      "price_psf": 409.0,
+      "price": 730000.0,
+      "price_text": "730,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780820",
+      "property": "ANJALI NORTH KIARA",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 634.0,
+      "price": 1060000.0,
+      "price_text": "1,060,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.780952",
+      "property": "GREENVIEW APARTMENT",
+      "unit_type": "APARTMENT",
+      "price_psf": 240.0,
+      "price": 185000.0,
+      "price_text": "185,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.781062",
+      "property": "TAMAN SRI BINTANG",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 678.0,
+      "price": 1100000.0,
+      "price_text": "1,100,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.781172",
+      "property": "TAMAN SRI",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 454.0,
+      "price": 670000.0,
+      "price_text": "670,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-09-24T03:42:24.781282",
+      "property": "VILLA ORKID",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 377.0,
+      "price": 705000.0,
+      "price_text": "705,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-09-24T03:42:24.781690",
+      "total_transactions": 203,
+      "total_projects": 34
+    }
+  ],
+  "market": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-09-24T03:42:30.595154",
+      "total_transactions": 203,
+      "total_projects": 34
+    },
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-09-24T03:42:37.552879"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-09-24T03:42:42.685573"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

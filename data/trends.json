@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:16:01.688899",
+  "generated_at": "2026-09-28T04:17:05.120194",
   "properties": {
     "Bamboo Hills Residences": {
       "region": "Bamboo Hills",
@@ -641,6 +641,46 @@
     }
   },
   "summary": {
+    "Bamboo Hills": {
+      "monthly": [
+        {
+          "month": "2025-10",
+          "rent_psf_avg": 1.8
+        },
+        {
+          "month": "2025-12",
+          "rent_psf_avg": 1.94
+        },
+        {
+          "month": "2026-01",
+          "rent_psf_avg": 2.28
+        },
+        {
+          "month": "2026-02",
+          "sale_psf_avg": 545.14,
+          "rent_psf_avg": 2.06
+        },
+        {
+          "month": "2026-03",
+          "sale_psf_avg": 609.45,
+          "rent_psf_avg": 2.18
+        },
+        {
+          "month": "2026-04",
+          "sale_psf_avg": 571.2,
+          "rent_psf_avg": 2.16
+        },
+        {
+          "month": "2026-08",
+          "sale_psf_avg": 691.55,
+          "rent_psf_avg": 2.89
+        },
+        {
+          "month": "2026-09",
+          "sale_psf_avg": 652.86
+        }
+      ]
+    },
     "Old Klang Road": {
       "monthly": [
         {
@@ -690,46 +730,6 @@
         {
           "month": "2026-09",
           "sale_psf_avg": 766.59
-        }
-      ]
-    },
-    "Bamboo Hills": {
-      "monthly": [
-        {
-          "month": "2025-10",
-          "rent_psf_avg": 1.8
-        },
-        {
-          "month": "2025-12",
-          "rent_psf_avg": 1.94
-        },
-        {
-          "month": "2026-01",
-          "rent_psf_avg": 2.28
-        },
-        {
-          "month": "2026-02",
-          "sale_psf_avg": 545.14,
-          "rent_psf_avg": 2.06
-        },
-        {
-          "month": "2026-03",
-          "sale_psf_avg": 609.45,
-          "rent_psf_avg": 2.18
-        },
-        {
-          "month": "2026-04",
-          "sale_psf_avg": 571.2,
-          "rent_psf_avg": 2.16
-        },
-        {
-          "month": "2026-08",
-          "sale_psf_avg": 691.55,
-          "rent_psf_avg": 2.89
-        },
-        {
-          "month": "2026-09",
-          "sale_psf_avg": 652.86
         }
       ]
     }

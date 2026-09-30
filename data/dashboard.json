@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T04:49:20.647072",
+  "last_updated": "2026-09-30T04:34:46.159924",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -12390,7 +12390,7 @@
       "region": "Bamboo Hills / Segambut",
       "source": "brickz",
       "type": "area_summary",
-      "scraped_at": "2026-09-29T04:49:07.359537",
+      "scraped_at": "2026-09-30T04:34:32.573083",
       "total_transactions": 203,
       "total_projects": 34
     },
@@ -12399,14 +12399,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-09-29T04:49:15.041469"
+      "scraped_at": "2026-09-30T04:34:40.448018"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-09-29T04:49:20.624355"
+      "scraped_at": "2026-09-30T04:34:46.138009"
     }
   ],
   "news": [],

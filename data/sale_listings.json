@@ -7806,5 +7806,37 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-wei-soong-soh-200526299"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-01T04:44:27.007664",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 428,200",
+    "price": 428200.0,
+    "price_psf": 708.94,
+    "size_sqft": 604.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-wei-soong-soh-200536394"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-01T04:44:27.008770",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 642,500",
+    "price": 642500.0,
+    "price_psf": 710.73,
+    "size_sqft": 904.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-wei-soong-soh-60547205"
   }
 ]

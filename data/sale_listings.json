@@ -7934,5 +7934,37 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/ayanna-resort-residences-for-sale-by-yvonne-yep-43197352"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-12T04:53:19.709068",
+    "title": "Gen Starz",
+    "price_text": "RM 698,800",
+    "price": 698800.0,
+    "price_psf": 799.54,
+    "size_sqft": 874.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502243029"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-12T04:53:19.714538",
+    "title": "Gen Starz",
+    "price_text": "RM 613,800",
+    "price": 613800.0,
+    "price_psf": 811.9,
+    "size_sqft": 756.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502243024"
   }
 ]

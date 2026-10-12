@@ -3772,5 +3772,37 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "url": "https://www.propertyguru.com.my/property-listing/tuan-residency-for-rent-by-vincent-tan-502005796"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-12T04:53:33.722833",
+    "title": "Residensi Inspirasi",
+    "price_text": "RM 1,600 /mo",
+    "price": 1600.0,
+    "price_psf": 1.93,
+    "size_sqft": 830.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/residensi-inspirasi-for-rent-by-hakimi-akmal-502228400"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "rent",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-12T04:53:33.723706",
+    "title": "Savvy @ Riana Dutamas",
+    "price_text": "RM 2,200 /mo",
+    "price": 2200.0,
+    "price_psf": 3.05,
+    "size_sqft": 722.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/savvy-riana-dutamas-for-rent-by-vic-yong-502203465"
   }
 ]

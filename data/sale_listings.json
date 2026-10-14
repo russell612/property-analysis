@@ -7966,5 +7966,53 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502243024"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-14T03:58:37.652149",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 430,000",
+    "price": 430000.0,
+    "price_psf": 713.1,
+    "size_sqft": 603.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-sam-chiw-502237568"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-14T03:58:37.654533",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 510,000",
+    "price": 510000.0,
+    "price_psf": 686.41,
+    "size_sqft": 743.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-sam-chiw-502237497"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-14T03:58:37.656898",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 510,000",
+    "price": 510000.0,
+    "price_psf": 686.41,
+    "size_sqft": 743.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-sam-chiw-502237498"
   }
 ]

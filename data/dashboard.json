@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T03:56:32.568733",
+  "last_updated": "2026-10-21T03:46:33.035743",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -1224,20 +1224,100 @@
           "bedrooms": 2,
           "bathrooms": 2,
           "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502243024"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-10-21T03:45:23.421574",
+          "title": "Ayanna Resort Residences",
+          "price_text": "RM 1,008,000",
+          "price": 1008000.0,
+          "price_psf": 600.0,
+          "size_sqft": 1680.0,
+          "bedrooms": 5,
+          "bathrooms": 3,
+          "url": "https://www.propertyguru.com.my/property-listing/ayanna-resort-residences-for-sale-by-yvonne-yep-43345516"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-10-21T03:45:23.422147",
+          "title": "Park Green Pavilion Bukit Jalil",
+          "price_text": "RM 1,000,000",
+          "price": 1000000.0,
+          "price_psf": 769.23,
+          "size_sqft": 1300.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/park-green-pavilion-bukit-jalil-for-sale-by-yvonne-yep-60594818"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-10-21T03:45:23.422735",
+          "title": "Ayanna Resort Residences",
+          "price_text": "RM 603,000",
+          "price": 603000.0,
+          "price_psf": 511.88,
+          "size_sqft": 1178.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/ayanna-resort-residences-for-sale-by-yvonne-yep-43380130"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-10-21T03:45:23.423313",
+          "title": "Ren Residences",
+          "price_text": "RM 490,000",
+          "price": 490000.0,
+          "price_psf": 490.0,
+          "size_sqft": 1000.0,
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "url": "https://www.propertyguru.com.my/property-listing/ren-residences-for-sale-by-yvonne-yep-43197190"
+        },
+        {
+          "property": "GenStarz",
+          "region": "Old Klang Road",
+          "area": "Old Klang Road",
+          "type": "sale",
+          "source": "propertyguru",
+          "scraped_at": "2026-10-21T03:45:23.423887",
+          "title": "Ren Residences",
+          "price_text": "RM 670,000",
+          "price": 670000.0,
+          "price_psf": 394.12,
+          "size_sqft": 1700.0,
+          "bedrooms": 5,
+          "bathrooms": 3,
+          "url": "https://www.propertyguru.com.my/property-listing/ren-residences-for-sale-by-yvonne-yep-42769953"
         }
       ],
       "rent_listings": [],
       "transactions": [],
       "stats": {
         "sale_price_min": 448000.0,
-        "sale_price_max": 856000.0,
+        "sale_price_max": 1008000.0,
         "sale_price_median": 613800.0,
-        "sale_price_avg": 637369.23,
-        "total_sale_listings": 26,
-        "sale_psf_min": 443.64,
+        "sale_price_avg": 656212.9,
+        "total_sale_listings": 31,
+        "sale_psf_min": 394.12,
         "sale_psf_max": 1026.46,
-        "sale_psf_median": 799.54,
-        "sale_psf_avg": 765.87
+        "sale_psf_median": 766.59,
+        "sale_psf_avg": 731.54
       }
     },
     "Scenaria @ North Kiara Hills": {
@@ -12512,48 +12592,6 @@
     }
   },
   "regions": {
-    "Old Klang Road": {
-      "properties": [
-        "GenStarz",
-        "OUG Parklane",
-        "The Scott Garden",
-        "Southbank Residence",
-        "Seringin Residences",
-        "Verve Suites KL South",
-        "Millerz Square",
-        "D'Ivo Residences"
-      ],
-      "total_sale_listings": 253,
-      "total_rent_listings": 111,
-      "total_transactions": 62,
-      "stats": {
-        "sale_price_min": 216000.0,
-        "sale_price_max": 4500000.0,
-        "sale_price_median": 435000.0,
-        "sale_price_avg": 594725.17,
-        "total_sale_listings": 253,
-        "sale_psf_min": 243.53,
-        "sale_psf_max": 7200.0,
-        "sale_psf_median": 498.89,
-        "sale_psf_avg": 589.94,
-        "rent_price_min": 500.0,
-        "rent_price_max": 4300.0,
-        "rent_price_median": 2000.0,
-        "rent_price_avg": 2215.13,
-        "total_rent_listings": 109,
-        "rent_psf_min": 1.07,
-        "rent_psf_max": 5.75,
-        "rent_psf_median": 2.63,
-        "rent_psf_avg": 2.9,
-        "estimated_yield": 5.52,
-        "txn_price_min": 145000.0,
-        "txn_price_max": 1442389.0,
-        "txn_price_median": 809000.0,
-        "total_transactions": 62,
-        "txn_psf_median": 506.0,
-        "txn_psf_avg": 550.81
-      }
-    },
     "Bamboo Hills": {
       "properties": [
         "Bamboo Hills Residences",
@@ -12590,6 +12628,48 @@
         "total_transactions": 42,
         "txn_psf_median": 531.0,
         "txn_psf_avg": 484.52
+      }
+    },
+    "Old Klang Road": {
+      "properties": [
+        "GenStarz",
+        "OUG Parklane",
+        "The Scott Garden",
+        "Southbank Residence",
+        "Seringin Residences",
+        "Verve Suites KL South",
+        "Millerz Square",
+        "D'Ivo Residences"
+      ],
+      "total_sale_listings": 258,
+      "total_rent_listings": 111,
+      "total_transactions": 62,
+      "stats": {
+        "sale_price_min": 216000.0,
+        "sale_price_max": 4500000.0,
+        "sale_price_median": 442000.0,
+        "sale_price_avg": 597815.77,
+        "total_sale_listings": 258,
+        "sale_psf_min": 243.53,
+        "sale_psf_max": 7200.0,
+        "sale_psf_median": 505.26,
+        "sale_psf_avg": 589.22,
+        "rent_price_min": 500.0,
+        "rent_price_max": 4300.0,
+        "rent_price_median": 2000.0,
+        "rent_price_avg": 2215.13,
+        "total_rent_listings": 109,
+        "rent_psf_min": 1.07,
+        "rent_psf_max": 5.75,
+        "rent_psf_median": 2.63,
+        "rent_psf_avg": 2.9,
+        "estimated_yield": 5.43,
+        "txn_price_min": 145000.0,
+        "txn_price_max": 1442389.0,
+        "txn_price_median": 809000.0,
+        "total_transactions": 62,
+        "txn_psf_median": 506.0,
+        "txn_psf_avg": 550.81
       }
     }
   },
@@ -12631,14 +12711,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-10-20T03:56:26.348181"
+      "scraped_at": "2026-10-21T03:46:27.152842"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-10-20T03:56:32.545308"
+      "scraped_at": "2026-10-21T03:46:33.016918"
     }
   ],
   "news": [],

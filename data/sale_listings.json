@@ -8094,5 +8094,37 @@
     "bedrooms": 5,
     "bathrooms": 3,
     "url": "https://www.propertyguru.com.my/property-listing/ren-residences-for-sale-by-yvonne-yep-42769953"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-24T03:43:27.778479",
+    "title": "Gen Starz",
+    "price_text": "RM 613,800",
+    "price": 613800.0,
+    "price_psf": 811.9,
+    "size_sqft": 756.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502276193"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-24T03:43:27.782381",
+    "title": "Gen Starz",
+    "price_text": "RM 698,800",
+    "price": 698800.0,
+    "price_psf": 799.54,
+    "size_sqft": 874.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502276192"
   }
 ]

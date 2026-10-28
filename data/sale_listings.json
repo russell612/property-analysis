@@ -8126,5 +8126,53 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-wei-soong-soh-502276192"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-28T04:35:20.819520",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 730,000",
+    "price": 730000.0,
+    "price_psf": 807.52,
+    "size_sqft": 904.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-freddy-ho-60276390"
+  },
+  {
+    "property": "Bamboo Hills Residences",
+    "region": "Bamboo Hills",
+    "area": "Segambut",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-28T04:35:20.821319",
+    "title": "Bamboo Hills Residences",
+    "price_text": "RM 480,000",
+    "price": 480000.0,
+    "price_psf": 796.02,
+    "size_sqft": 603.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/bamboo-hills-residences-for-sale-by-freddy-ho-60276311"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-10-28T04:35:22.575008",
+    "title": "Gen Starz",
+    "price_text": "RM 560,000",
+    "price": 560000.0,
+    "price_psf": 640.73,
+    "size_sqft": 874.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ying-lee-43471337"
   }
 ]

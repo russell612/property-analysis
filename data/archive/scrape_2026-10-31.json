@@ -1,0 +1,133 @@
+{
+  "sale": [],
+  "rent": [],
+  "transactions": [
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605022",
+      "property": "OUG PARKLANE",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 404.0,
+      "price": 395000.0,
+      "price_text": "395,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605182",
+      "property": "OVERSEAS UNION GARDEN",
+      "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+      "price_psf": 518.0,
+      "price": 945000.0,
+      "price_text": "945,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605288",
+      "property": "HAPPY GARDEN",
+      "unit_type": ", LEASEHOLDTERRACE HOUSE",
+      "price_psf": 461.0,
+      "price": 760000.0,
+      "price_text": "760,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605399",
+      "property": "RESIDENSI WALTZ",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 784.0,
+      "price": 1316920.0,
+      "price_text": "1,316,920"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605500",
+      "property": "MEADOW PARK 2",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 486.0,
+      "price": 450000.0,
+      "price_text": "450,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605601",
+      "property": "VERVE SUITES KL SOUTH",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 832.0,
+      "price": 875000.0,
+      "price_text": "875,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605697",
+      "property": "LE YUAN RESIDENCE",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 503.0,
+      "price": 830000.0,
+      "price_text": "830,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605789",
+      "property": "MILLERZ SQUARE",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 877.0,
+      "price": 712340.0,
+      "price_text": "712,340"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605881",
+      "property": "TIARA MUTIARA / THE CROWN",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 440.0,
+      "price": 377000.0,
+      "price_text": "377,000"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "scraped_at": "2026-10-31T04:36:20.605988",
+      "property": "TAMAN YARL",
+      "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+      "price_psf": 416.0,
+      "price": 1442389.0,
+      "price_text": "1,442,389"
+    },
+    {
+      "region": "Old Klang Road",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-10-31T04:36:20.606366",
+      "total_transactions": 472,
+      "total_projects": 84
+    }
+  ],
+  "market": [
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-10-31T04:36:29.474314"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-10-31T04:36:34.668724"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

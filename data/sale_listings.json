@@ -8174,5 +8174,53 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/gen-starz-for-sale-by-ying-lee-43471337"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-11-01T04:55:30.597896",
+    "title": "Avantro Residences",
+    "price_text": "RM 460,000",
+    "price": 460000.0,
+    "price_psf": 511.11,
+    "size_sqft": 900.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/avantro-residences-for-sale-by-yvonne-yep-43451762"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-11-01T04:55:30.601242",
+    "title": "Avantro Residences",
+    "price_text": "RM 678,000",
+    "price": 678000.0,
+    "price_psf": 562.19,
+    "size_sqft": 1206.0,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "url": "https://www.propertyguru.com.my/property-listing/avantro-residences-for-sale-by-yvonne-yep-43197228"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-11-01T04:55:30.612237",
+    "title": "Arra Residences",
+    "price_text": "RM 470,000",
+    "price": 470000.0,
+    "price_psf": 626.67,
+    "size_sqft": 750.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/arra-residences-for-sale-by-yvonne-yep-60375978"
   }
 ]

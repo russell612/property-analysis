@@ -1,0 +1,133 @@
+{
+  "sale": [],
+  "rent": [],
+  "transactions": [
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.467746",
+      "property": "THE ERA @ DUTA NORTH",
+      "unit_type": "SERVICE RESIDENCE",
+      "price_psf": 793.0,
+      "price": 810180.0,
+      "price_text": "810,180"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.467938",
+      "property": "TAMAN SRI SINAR",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 628.0,
+      "price": 418000.0,
+      "price_text": "418,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468075",
+      "property": "NOVA 1",
+      "unit_type": "APARTMENT",
+      "price_psf": 565.0,
+      "price": 420000.0,
+      "price_text": "420,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468218",
+      "property": "SCENARIA @ NORTH KIARA HILLS",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 532.0,
+      "price": 650000.0,
+      "price_text": "650,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468358",
+      "property": "KEPONG BARU",
+      "unit_type": "SEMI-D,TERRACE HOUSE",
+      "price_psf": 409.0,
+      "price": 730000.0,
+      "price_text": "730,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468489",
+      "property": "ANJALI NORTH KIARA",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 634.0,
+      "price": 1060000.0,
+      "price_text": "1,060,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468618",
+      "property": "GREENVIEW APARTMENT",
+      "unit_type": "APARTMENT",
+      "price_psf": 240.0,
+      "price": 185000.0,
+      "price_text": "185,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468744",
+      "property": "TAMAN SRI BINTANG",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 678.0,
+      "price": 1100000.0,
+      "price_text": "1,100,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.468894",
+      "property": "TAMAN SRI",
+      "unit_type": "TERRACE HOUSE",
+      "price_psf": 454.0,
+      "price": 670000.0,
+      "price_text": "670,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "scraped_at": "2026-11-02T04:58:06.469024",
+      "property": "VILLA ORKID",
+      "unit_type": "CONDOMINIUM",
+      "price_psf": 377.0,
+      "price": 705000.0,
+      "price_text": "705,000"
+    },
+    {
+      "region": "Bamboo Hills / Segambut",
+      "source": "brickz",
+      "type": "area_summary",
+      "scraped_at": "2026-11-02T04:58:06.469457",
+      "total_transactions": 203,
+      "total_projects": 34
+    }
+  ],
+  "market": [
+    {
+      "title": "Property Market",
+      "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
+      "type": "publication",
+      "source": "napic",
+      "scraped_at": "2026-11-02T04:58:16.242818"
+    },
+    {
+      "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
+      "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
+      "type": "transaction_data_file",
+      "source": "napic",
+      "scraped_at": "2026-11-02T04:58:22.615955"
+    }
+  ],
+  "news": [],
+  "details": [],
+  "errors": []
+}

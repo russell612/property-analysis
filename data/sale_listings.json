@@ -8222,5 +8222,21 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "url": "https://www.propertyguru.com.my/property-listing/arra-residences-for-sale-by-yvonne-yep-60375978"
+  },
+  {
+    "property": "GenStarz",
+    "region": "Old Klang Road",
+    "area": "Old Klang Road",
+    "type": "sale",
+    "source": "propertyguru",
+    "scraped_at": "2026-11-03T05:45:25.686045",
+    "title": "Arra Residences",
+    "price_text": "RM 588,000",
+    "price": 588000.0,
+    "price_psf": 626.87,
+    "size_sqft": 938.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "url": "https://www.propertyguru.com.my/property-listing/arra-residences-for-sale-by-yvonne-yep-60580775"
   }
 ]

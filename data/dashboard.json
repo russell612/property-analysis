@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T05:09:07.300125",
+  "last_updated": "2026-11-10T06:25:43.925627",
   "properties": {
     "Bamboo Hills Residences": {
       "info": {
@@ -12855,14 +12855,14 @@
       "url": "https://napic.jpph.gov.my/archives/pasaran-harta-tanah",
       "type": "publication",
       "source": "napic",
-      "scraped_at": "2026-11-09T05:09:01.326210"
+      "scraped_at": "2026-11-10T06:25:38.359677"
     },
     {
       "title": "Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026",
       "url": "https://napic.jpph.gov.my/storage/app/media//3-penerbitan/Shahrul/Bahagian Pasaran Harta Tanah/Jadual Data Transaksi Harta Tanah/Q1 2026/1. Jadual Transaksi Harta Tanah WP. Kuala Lumpur Q1 2026.xlsx",
       "type": "transaction_data_file",
       "source": "napic",
-      "scraped_at": "2026-11-09T05:09:07.276975"
+      "scraped_at": "2026-11-10T06:25:43.878403"
     }
   ],
   "news": [],

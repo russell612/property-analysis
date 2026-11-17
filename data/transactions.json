@@ -1045,5 +1045,65 @@
     "price_psf": 416.0,
     "price": 1442389.0,
     "price_text": "1,442,389"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.648477",
+    "property": "OVERSEAS UNION GARDEN",
+    "unit_type": "BUNGALOW,SEMI-D,TERRACE HOUSE",
+    "price_psf": 533.0,
+    "price": 934000.0,
+    "price_text": "934,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.648590",
+    "property": "HAPPY GARDEN",
+    "unit_type": ", LEASEHOLDTERRACE HOUSE",
+    "price_psf": 455.0,
+    "price": 784000.0,
+    "price_text": "784,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.648707",
+    "property": "RESIDENSI WALTZ",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 785.0,
+    "price": 1314720.0,
+    "price_text": "1,314,720"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.649020",
+    "property": "LE YUAN RESIDENCE",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 505.0,
+    "price": 850000.0,
+    "price_text": "850,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.649118",
+    "property": "VERVE SUITES KL SOUTH",
+    "unit_type": "SERVICE RESIDENCE",
+    "price_psf": 819.0,
+    "price": 688000.0,
+    "price_text": "688,000"
+  },
+  {
+    "region": "Old Klang Road",
+    "source": "brickz",
+    "scraped_at": "2026-11-17T07:02:28.649219",
+    "property": "THE LEGACY OUG",
+    "unit_type": "APARTMENT,CONDOMINIUM",
+    "price_psf": 724.0,
+    "price": 987800.0,
+    "price_text": "987,800"
   }
 ]

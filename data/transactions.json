@@ -1105,5 +1105,65 @@
     "price_psf": 724.0,
     "price": 987800.0,
     "price_text": "987,800"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045217",
+    "property": "KONDOMINIUM MULBERI",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 526.0,
+    "price": 576700.0,
+    "price_text": "576,700"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045326",
+    "property": "SCENARIA @ NORTH KIARA HILLS",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 552.0,
+    "price": 675000.0,
+    "price_text": "675,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045461",
+    "property": "ANJALI NORTH KIARA",
+    "unit_type": "CONDOMINIUM",
+    "price_psf": 647.0,
+    "price": 1040000.0,
+    "price_text": "1,040,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045571",
+    "property": "TAMAN PUSAT KEPONG",
+    "unit_type": "FLAT",
+    "price_psf": 266.0,
+    "price": 250000.0,
+    "price_text": "250,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045677",
+    "property": "GREENVIEW APARTMENT",
+    "unit_type": "APARTMENT",
+    "price_psf": 220.0,
+    "price": 175000.0,
+    "price_text": "175,000"
+  },
+  {
+    "region": "Bamboo Hills / Segambut",
+    "source": "brickz",
+    "scraped_at": "2026-11-24T08:56:14.045786",
+    "property": "TAMAN SRI",
+    "unit_type": "TERRACE HOUSE",
+    "price_psf": 414.0,
+    "price": 610000.0,
+    "price_text": "610,000"
   }
 ]
